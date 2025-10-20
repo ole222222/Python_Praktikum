@@ -1,4 +1,4 @@
-# Python_Praktikum
+# Python Praktikum
 
 Ein Repository, das Praktikant*innen **ohne Vorkenntnisse** die Programmiersprache **Python** Schritt fur Schritt näherbringt.  
 Diese Anleitung zeigt genau, wie du deine Entwicklungsumgebung unter **Windows** einrichtest, das Repository klonst und das Praktikum startest.
