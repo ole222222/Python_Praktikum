@@ -5,7 +5,7 @@ Diese Anleitung zeigt genau, wie du deine Entwicklungsumgebung unter **Windows**
 
 ## Vorbereitung
 
-Wenn dir ein Schritt unklar ist, frage bitte nach  das ist ausdrücklich erwünscht!
+Wenn dir ein Schritt unklar ist, frage bitte nach das ist ausdrücklich erwünscht!
 
 ### 1. Fork des Repositories (auf GitHub)
 
@@ -23,7 +23,7 @@ Du brauchst drei Programme:
 - Python 3.x
 - Git
 
-#### A) Visual Studio Code (VS Code)
+#### Visual Studio Code (VS Code)
 
 1. Gehe zu [https://code.visualstudio.com/](https://code.visualstudio.com/).  
 2. Klicke auf **Download for Windows** und starte die Installationsdatei.  
@@ -32,12 +32,12 @@ Du brauchst drei Programme:
    - Open with Code im Kontextmenü
 4. Installation abschließen.
 
-#### B) Python 3.x installieren
+#### Python 3.x installieren
 
 1. Gehe zu [https://www.python.org/downloads/windows/](https://www.python.org/downloads/windows/).  
 2. Lade die aktuelle Version (z. B. 3.11 oder 3.12) herunter.  
-3. Aktiviere beim Installieren die Option 
-   - add Python 3.x to PATH 
+3. Aktiviere beim Installieren die Option
+   - add Python 3.x to PATH
 4. Wähle **Install Now**.  
 5. Prüfe die Installation:
    ```powershell
@@ -45,7 +45,7 @@ Du brauchst drei Programme:
    ```
    Ausgabe sollte z. B. `Python 3.xx.x` sein.
 
-#### C) Git installieren
+#### Git installieren
 
 1. Gehe zu [https://git-scm.com/download/win](https://git-scm.com/download/win).  
 2. Lade den Installer herunter und starte ihn.  
@@ -57,14 +57,33 @@ Du brauchst drei Programme:
    ```
    Beispielausgabe: `git version 2.xx.x`
 
-### 3. Dein geforktes Repository klonen (auf den PC holen)
+### Dein geforktes Repository klonen (auf den PC holen)
 
 1. öffne deinen Fork auf GitHub:  
 
-### 4. Projekt in VS Code öffnen
+### Projekt in VS Code öffnen
 
+1. Starte Visual Studio Code.
+2. Klicke auf **Datei** > **Ordner öffnen** und wähle den Ordner deines geklonten Repositories aus.
 
-### 5. Virtuelle Umgebung anlegen (empfohlen)
+### Virtuelle Umgebung anlegen (empfohlen)
 
+1. Öffne das Terminal in VS Code: **Terminal** > **Neues Terminal**.
+2. Erstelle eine virtuelle Umgebung:
+   ```powershell
+   python -m venv venv
+   ```
+3. Aktiviere die virtuelle Umgebung:
+   - Windows:
+     ```powershell
+     .\venv\Scripts\activate
+     ```
+   - macOS/Linux:
+     ```bash
+     source venv/bin/activate
+     ```
 
-### 6. Erste Datei ausführen (Start von Tag 1)
+### Erste Datei ausführen (Start von Tag 1)
+
+1. Öffne die Datei `tag_01_python_basics/main.py` in VS Code.
+2. Drücke `F5` oder klicke auf **Run Python File** oben rechts.
