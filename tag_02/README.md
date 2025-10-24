@@ -1,13 +1,15 @@
 # Tag 2: Text-Adventure & Git/GitHub Grundlagen
 
-Willkommen zu Tag 2! Heute festigst du dein Python-Wissen mit einem Text-Adventure-Spiel und lernst die Grundlagen von Git und GitHub kennen.
+Willkommen zu Tag 2 deines Python-Praktikums! Heute machst du einen großen Schritt in deiner Programmier-Reise. Du wirst dein erstes Text-Adventure erstellen und die wichtigen Grundlagen von Git und GitHub kennenlernen. Keine Sorge - ein Ansprechpartner ist immer da, wenn du Fragen hast!
 
-## Was du heute lernst
+## Was an diesem Tag gemacht wird
 
-- **Python-Wiederholung**: Festigung von Variablen, Bedingungen und Funktionen
-- **Git Grundlagen**: Versionskontrolle verstehen und nutzen
-- **GitHub**: Code online teilen und verwalten
-- **Wichtige Git-Befehle**: commit, push, pull, fetch, fork, branch
+- **Text-Adventure Spiel**: Ein interaktives Abenteuer mit Funktionen programmieren
+- **Python-Wiederholung**: Festigung von Variablen, Bedingungen und Input/Output
+- **Funktionen**: Zum ersten Mal eigene Funktionen schreiben und verstehen
+- **Git Grundlagen**: Versionskontrolle verstehen und praktisch nutzen
+- **GitHub Workflow**: Code sichern, teilen und zusammenarbeiten
+- **Wichtige Git-Befehle**: commit, push, pull, fetch, fork, branch verstehen
 
 ## Teil 1: Text-Adventure (Aufwärmung)
 
@@ -46,7 +48,7 @@ start_game()  # ← Das ist ein Funktions-Aufruf
 **Was sind Funktionen?**
 
 - Wie ein Rezept: Einmal schreiben, oft verwenden
-- Machen Code übersichtlicher und wiederverwendbar
+- Machen Code übersichtlicher und wieder verwendbar
 - `def` = "definiere eine neue Funktion"
 
 ### Wiederholung der Python-Konzepte aus Tag 1
@@ -245,15 +247,18 @@ Deine Kopie (komplett unter deiner Kontrolle)
 - Du willst experimentieren, ohne das Original zu stören
 - Du willst ein Projekt als Basis für dein eigenes nutzen
 
-## Teil 7: Praktische Übung
+## Teil 7: Git-Workflow in der Praxis
 
-### Git-Workflow für unser Text-Adventure
+### Schritt-für-Schritt Git-Workflow
 
 Da wir bereits ein Fork vom Python-Praktikum haben, können wir direkt mit dem Git-Workflow loslegen:
 
 1. **Änderungen am Spiel machen**
-   - Öffne `main.py` und verbessere das Text-Adventure
-   - Probiere eine der Ideen von oben aus
+
+   ```bash
+   # Öffne main.py und verbessere das Text-Adventure
+   # Probiere eine der Ideen von oben aus
+   ```
 
 2. **Änderungen committen**
 
@@ -280,7 +285,38 @@ Da wir bereits ein Fork vom Python-Praktikum haben, können wir direkt mit dem G
    git status
    ```
 
-**Tipp**: Für komplett neue Projekte würdest du ein neues Repository direkt auf GitHub erstellen und dann clonen. Aber da wir schon ein Fork haben, nutzen wir das!
+**Wichtig**: Ein Ansprechpartner hilft dir gerne, wenn Git-Befehle nicht funktionieren!
+
+### Aufgabe 1: Text-Adventure erweitern
+
+Öffne die `main.py` und erweitere das Text-Adventure um eine weitere Entscheidung:
+
+- Füge eine dritte Tür "geradeaus" hinzu
+- Lass den Spieler nach seinem Namen fragen
+- Verwende den Namen in der Begrüßung
+
+**Erfolgskriterium**: Das Spiel hat drei Türen und begrüßt den Spieler mit Namen.
+
+### Aufgabe 2: Git-Workflow üben
+
+Wende den kompletten Git-Workflow auf deine Änderungen an:
+
+- Teste deine Änderungen lokal mit `python main.py`
+- Erstelle einen aussagekräftigen Commit mit deinen Verbesserungen
+- Lade deine Änderungen zu GitHub hoch
+- Prüfe auf GitHub, ob deine Änderungen angekommen sind
+
+**Erfolgskriterium**: Deine Änderungen sind auf GitHub sichtbar und haben eine gute Commit-Message.
+
+### Aufgabe 3: Eigene Funktion schreiben
+
+Erstelle eine neue Funktion `zeige_inventar()` in der `main.py`:
+
+- Die Funktion soll eine Liste von Gegenständen ausgeben
+- Verwende die Funktion im Spiel, wenn der Spieler einen Schatz findet
+- Experimentiere mit verschiedenen Gegenständen
+
+**Erfolgskriterium**: Eine funktionierende Funktion, die das Inventar anzeigt und im Spiel verwendet wird.
 
 ## Teil 8: Git-Befehle Übersicht
 
@@ -310,30 +346,15 @@ Nach diesem Tag solltest du:
 
 - **Kleine Commits**: Committe oft, aber nur zusammengehörige Änderungen
 - **Gute Commit-Messages**: "Bug behoben" ist schlecht, "Rechenfehler in Punkteberechnung behoben" ist gut
-- **Backup-Mentalität**: Push regelmäßig zu GitHub
+- **Backup-Mentalität**: Push regelmäßig zu GitHub - so ist dein Code immer sicher
 - **Experimentierfreude**: Branches sind sicher zum Experimentieren
+- **Fehler sind normal**: Git kann fast alles rückgängig machen - hab keine Angst!
+- **Frag nach Hilfe**: Ein Ansprechpartner ist immer da, wenn Git verwirrt
 
-## Herausforderungen
+## Perfekt gemacht
 
-### Einfach
+Du hast heute zwei wichtige Meilensteine erreicht: Du kannst jetzt eigene Funktionen schreiben UND mit Git arbeiten! Das sind fundamentale Fähigkeiten, die dir in deiner gesamten Programmier-Laufbahn helfen werden.
 
-- Erweitere das Text-Adventure um einen weiteren Raum
-- Erstelle deinen ersten Commit mit einer aussagekräftigen Message
+Git mag am Anfang kompliziert wirken, aber mit der Zeit wird es zur zweiten Natur. Du hast heute die wichtigsten Befehle kennengelernt und kannst deinen Code sicher verwalten. Das Text-Adventure zeigt, wie aus einfachen Python-Konzepten richtige Programme entstehen.
 
-### Mittel
-
-- Implementiere ein Punktesystem im Spiel
-- Erstelle einen Feature-Branch für das Punktesystem
-
-### Schwer
-
-- Baue ein komplettes Dungeon mit mehreren Räumen
-- Nutze Git, um verschiedene Spielversionen zu verwalten
-
-## Hilfe und Ressourcen
-
-- **Git verwirrt?** Das ist normal! Frag nach Hilfe
-- **Fehler gemacht?** Mit Git kannst du fast alles rückgängig machen
-- **GitHub erkunden**: Schau dir andere Projekte an und lerne davon
-
-Viel Spaß beim Programmieren und Git lernen!
+Morgen geht es weiter mit PyTorch und Bilderkennung - ein großer Sprung in die Welt des maschinellen Lernens! Bis dahin: Experimentiere gerne mit dem Text-Adventure und übe den Git-Workflow. Du machst große Fortschritte!

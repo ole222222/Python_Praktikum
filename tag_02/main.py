@@ -6,9 +6,9 @@ def start_game():
     choice = input("Welche Tür wählst du? (links/rechts): ").strip().lower()
 
     if choice == "links":
-        print("Du findest einen Schatz! 🎉")
+        print("Du findest einen Schatz!")
     elif choice == "rechts":
-        print("Ein Monster erscheint! 🐉")
+        print("Ein Monster erscheint!")
     else:
         print("Du hast dich verirrt...")
 
