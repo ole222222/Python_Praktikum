@@ -1,0 +1,5010 @@
+{
+  "uebersetzungen": [
+    {
+      "index": 0,
+      "englisch": "tench",
+      "deutsch": "Schleie"
+    },
+    {
+      "index": 1,
+      "englisch": "goldfish",
+      "deutsch": "Goldfisch"
+    },
+    {
+      "index": 2,
+      "englisch": "great white shark",
+      "deutsch": "großer weißer Hai"
+    },
+    {
+      "index": 3,
+      "englisch": "tiger shark",
+      "deutsch": "Tigerhai"
+    },
+    {
+      "index": 4,
+      "englisch": "hammerhead",
+      "deutsch": "Hammerhai"
+    },
+    {
+      "index": 5,
+      "englisch": "electric ray",
+      "deutsch": "Zitterrochen"
+    },
+    {
+      "index": 6,
+      "englisch": "stingray",
+      "deutsch": "Stachelrochen"
+    },
+    {
+      "index": 7,
+      "englisch": "cock",
+      "deutsch": "Schwanz"
+    },
+    {
+      "index": 8,
+      "englisch": "hen",
+      "deutsch": "Henne"
+    },
+    {
+      "index": 9,
+      "englisch": "ostrich",
+      "deutsch": "Strauß"
+    },
+    {
+      "index": 10,
+      "englisch": "brambling",
+      "deutsch": "murmelnd"
+    },
+    {
+      "index": 11,
+      "englisch": "goldfinch",
+      "deutsch": "Stieglitz"
+    },
+    {
+      "index": 12,
+      "englisch": "house finch",
+      "deutsch": "Hausfink"
+    },
+    {
+      "index": 13,
+      "englisch": "junco",
+      "deutsch": "Junco"
+    },
+    {
+      "index": 14,
+      "englisch": "indigo bunting",
+      "deutsch": "Indigo-Ammer"
+    },
+    {
+      "index": 15,
+      "englisch": "robin",
+      "deutsch": "Robin"
+    },
+    {
+      "index": 16,
+      "englisch": "bulbul",
+      "deutsch": "Bulbul"
+    },
+    {
+      "index": 17,
+      "englisch": "jay",
+      "deutsch": "Jay"
+    },
+    {
+      "index": 18,
+      "englisch": "magpie",
+      "deutsch": "Elster"
+    },
+    {
+      "index": 19,
+      "englisch": "chickadee",
+      "deutsch": "Meise"
+    },
+    {
+      "index": 20,
+      "englisch": "water ouzel",
+      "deutsch": "Wasser Ouzel"
+    },
+    {
+      "index": 21,
+      "englisch": "kite",
+      "deutsch": "Drachen"
+    },
+    {
+      "index": 22,
+      "englisch": "bald eagle",
+      "deutsch": "Weißkopfseeadler"
+    },
+    {
+      "index": 23,
+      "englisch": "vulture",
+      "deutsch": "Geier"
+    },
+    {
+      "index": 24,
+      "englisch": "great grey owl",
+      "deutsch": "Bartkauz"
+    },
+    {
+      "index": 25,
+      "englisch": "European fire salamander",
+      "deutsch": "Europäischer Feuersalamander"
+    },
+    {
+      "index": 26,
+      "englisch": "common newt",
+      "deutsch": "Gemeiner Molch"
+    },
+    {
+      "index": 27,
+      "englisch": "eft",
+      "deutsch": "eft"
+    },
+    {
+      "index": 28,
+      "englisch": "spotted salamander",
+      "deutsch": "gefleckter Salamander"
+    },
+    {
+      "index": 29,
+      "englisch": "axolotl",
+      "deutsch": "Axolotl"
+    },
+    {
+      "index": 30,
+      "englisch": "bullfrog",
+      "deutsch": "Ochsenfrosch"
+    },
+    {
+      "index": 31,
+      "englisch": "tree frog",
+      "deutsch": "Laubfrosch"
+    },
+    {
+      "index": 32,
+      "englisch": "tailed frog",
+      "deutsch": "Schwanzfrosch"
+    },
+    {
+      "index": 33,
+      "englisch": "loggerhead",
+      "deutsch": "Unechte"
+    },
+    {
+      "index": 34,
+      "englisch": "leatherback turtle",
+      "deutsch": "Lederschildkröte"
+    },
+    {
+      "index": 35,
+      "englisch": "mud turtle",
+      "deutsch": "Schlammschildkröte"
+    },
+    {
+      "index": 36,
+      "englisch": "terrapin",
+      "deutsch": "Sumpfschildkröte"
+    },
+    {
+      "index": 37,
+      "englisch": "box turtle",
+      "deutsch": "Dosenschildkröte"
+    },
+    {
+      "index": 38,
+      "englisch": "banded gecko",
+      "deutsch": "gebänderter Gecko"
+    },
+    {
+      "index": 39,
+      "englisch": "common iguana",
+      "deutsch": "Gemeiner Leguan"
+    },
+    {
+      "index": 40,
+      "englisch": "American chameleon",
+      "deutsch": "Amerikanisches Chamäleon"
+    },
+    {
+      "index": 41,
+      "englisch": "whiptail",
+      "deutsch": "Peitschenschwanz"
+    },
+    {
+      "index": 42,
+      "englisch": "agama",
+      "deutsch": "Agama"
+    },
+    {
+      "index": 43,
+      "englisch": "frilled lizard",
+      "deutsch": "Rüscheneidechse"
+    },
+    {
+      "index": 44,
+      "englisch": "alligator lizard",
+      "deutsch": "Alligator-Eidechse"
+    },
+    {
+      "index": 45,
+      "englisch": "Gila monster",
+      "deutsch": "Gila-Monster"
+    },
+    {
+      "index": 46,
+      "englisch": "green lizard",
+      "deutsch": "Grüne Eidechse"
+    },
+    {
+      "index": 47,
+      "englisch": "African chameleon",
+      "deutsch": "Afrikanisches Chamäleon"
+    },
+    {
+      "index": 48,
+      "englisch": "Komodo dragon",
+      "deutsch": "Komodowaran"
+    },
+    {
+      "index": 49,
+      "englisch": "African crocodile",
+      "deutsch": "Afrikanisches Krokodil"
+    },
+    {
+      "index": 50,
+      "englisch": "American alligator",
+      "deutsch": "Amerikanischer Alligator"
+    },
+    {
+      "index": 51,
+      "englisch": "triceratops",
+      "deutsch": "Triceratops"
+    },
+    {
+      "index": 52,
+      "englisch": "thunder snake",
+      "deutsch": "Donnerschlange"
+    },
+    {
+      "index": 53,
+      "englisch": "ringneck snake",
+      "deutsch": "Ringhalsschlange"
+    },
+    {
+      "index": 54,
+      "englisch": "hognose snake",
+      "deutsch": "Hognose-Schlange"
+    },
+    {
+      "index": 55,
+      "englisch": "green snake",
+      "deutsch": "grüne Schlange"
+    },
+    {
+      "index": 56,
+      "englisch": "king snake",
+      "deutsch": "Königsschlange"
+    },
+    {
+      "index": 57,
+      "englisch": "garter snake",
+      "deutsch": "Strumpfbandnatter"
+    },
+    {
+      "index": 58,
+      "englisch": "water snake",
+      "deutsch": "Wasserschlange"
+    },
+    {
+      "index": 59,
+      "englisch": "vine snake",
+      "deutsch": "Weinschlange"
+    },
+    {
+      "index": 60,
+      "englisch": "night snake",
+      "deutsch": "Nachtschlange"
+    },
+    {
+      "index": 61,
+      "englisch": "boa constrictor",
+      "deutsch": "Boa Constrictor"
+    },
+    {
+      "index": 62,
+      "englisch": "rock python",
+      "deutsch": "Rock-Python"
+    },
+    {
+      "index": 63,
+      "englisch": "Indian cobra",
+      "deutsch": "Indische Kobra"
+    },
+    {
+      "index": 64,
+      "englisch": "green mamba",
+      "deutsch": "grüne Mamba"
+    },
+    {
+      "index": 65,
+      "englisch": "sea snake",
+      "deutsch": "Seeschlange"
+    },
+    {
+      "index": 66,
+      "englisch": "horned viper",
+      "deutsch": "Hornotter"
+    },
+    {
+      "index": 67,
+      "englisch": "diamondback",
+      "deutsch": "Diamantrücken"
+    },
+    {
+      "index": 68,
+      "englisch": "sidewinder",
+      "deutsch": "Seitenwinder"
+    },
+    {
+      "index": 69,
+      "englisch": "trilobite",
+      "deutsch": "Trilobit"
+    },
+    {
+      "index": 70,
+      "englisch": "harvestman",
+      "deutsch": "Erntemann"
+    },
+    {
+      "index": 71,
+      "englisch": "scorpion",
+      "deutsch": "Skorpion"
+    },
+    {
+      "index": 72,
+      "englisch": "black and gold garden spider",
+      "deutsch": "Schwarz-goldene Gartenspinne"
+    },
+    {
+      "index": 73,
+      "englisch": "barn spider",
+      "deutsch": "Scheunenspinne"
+    },
+    {
+      "index": 74,
+      "englisch": "garden spider",
+      "deutsch": "Gartenspinne"
+    },
+    {
+      "index": 75,
+      "englisch": "black widow",
+      "deutsch": "schwarze Witwe"
+    },
+    {
+      "index": 76,
+      "englisch": "tarantula",
+      "deutsch": "Tarantel"
+    },
+    {
+      "index": 77,
+      "englisch": "wolf spider",
+      "deutsch": "Wolfsspinne"
+    },
+    {
+      "index": 78,
+      "englisch": "tick",
+      "deutsch": "Tick"
+    },
+    {
+      "index": 79,
+      "englisch": "centipede",
+      "deutsch": "Tausendfüßler"
+    },
+    {
+      "index": 80,
+      "englisch": "black grouse",
+      "deutsch": "Birkhuhn"
+    },
+    {
+      "index": 81,
+      "englisch": "ptarmigan",
+      "deutsch": "Schneehuhn"
+    },
+    {
+      "index": 82,
+      "englisch": "ruffed grouse",
+      "deutsch": "Halshuhn"
+    },
+    {
+      "index": 83,
+      "englisch": "prairie chicken",
+      "deutsch": "Präriehuhn"
+    },
+    {
+      "index": 84,
+      "englisch": "peacock",
+      "deutsch": "Pfau"
+    },
+    {
+      "index": 85,
+      "englisch": "quail",
+      "deutsch": "Wachtel"
+    },
+    {
+      "index": 86,
+      "englisch": "partridge",
+      "deutsch": "Rebhuhn"
+    },
+    {
+      "index": 87,
+      "englisch": "African grey",
+      "deutsch": "Afrikanisches Grau"
+    },
+    {
+      "index": 88,
+      "englisch": "macaw",
+      "deutsch": "Ara"
+    },
+    {
+      "index": 89,
+      "englisch": "sulphur-crested cockatoo",
+      "deutsch": "Gelbhaubenkakadu"
+    },
+    {
+      "index": 90,
+      "englisch": "lorikeet",
+      "deutsch": "Lorikeet"
+    },
+    {
+      "index": 91,
+      "englisch": "coucal",
+      "deutsch": "Coucal"
+    },
+    {
+      "index": 92,
+      "englisch": "bee eater",
+      "deutsch": "Bienenfresser"
+    },
+    {
+      "index": 93,
+      "englisch": "hornbill",
+      "deutsch": "Nashornvogel"
+    },
+    {
+      "index": 94,
+      "englisch": "hummingbird",
+      "deutsch": "Kolibri"
+    },
+    {
+      "index": 95,
+      "englisch": "jacamar",
+      "deutsch": "jacamar"
+    },
+    {
+      "index": 96,
+      "englisch": "toucan",
+      "deutsch": "Tukan"
+    },
+    {
+      "index": 97,
+      "englisch": "drake",
+      "deutsch": "Erpel"
+    },
+    {
+      "index": 98,
+      "englisch": "red-breasted merganser",
+      "deutsch": "rotbrüstiger Prototyp"
+    },
+    {
+      "index": 99,
+      "englisch": "goose",
+      "deutsch": "Gans"
+    },
+    {
+      "index": 100,
+      "englisch": "black swan",
+      "deutsch": "schwarzer Schwan"
+    },
+    {
+      "index": 101,
+      "englisch": "tusker",
+      "deutsch": "Tusker"
+    },
+    {
+      "index": 102,
+      "englisch": "echidna",
+      "deutsch": "Ameisenigel"
+    },
+    {
+      "index": 103,
+      "englisch": "platypus",
+      "deutsch": "Schnabeltier"
+    },
+    {
+      "index": 104,
+      "englisch": "wallaby",
+      "deutsch": "Wallaby"
+    },
+    {
+      "index": 105,
+      "englisch": "koala",
+      "deutsch": "Koala"
+    },
+    {
+      "index": 106,
+      "englisch": "wombat",
+      "deutsch": "wombat"
+    },
+    {
+      "index": 107,
+      "englisch": "jellyfish",
+      "deutsch": "Qualle"
+    },
+    {
+      "index": 108,
+      "englisch": "sea anemone",
+      "deutsch": "Seeanemone"
+    },
+    {
+      "index": 109,
+      "englisch": "brain coral",
+      "deutsch": "Hirnkoralle"
+    },
+    {
+      "index": 110,
+      "englisch": "flatworm",
+      "deutsch": "Plattwurm"
+    },
+    {
+      "index": 111,
+      "englisch": "nematode",
+      "deutsch": "Fadenwurm"
+    },
+    {
+      "index": 112,
+      "englisch": "conch",
+      "deutsch": "Muschel"
+    },
+    {
+      "index": 113,
+      "englisch": "snail",
+      "deutsch": "Schnecke"
+    },
+    {
+      "index": 114,
+      "englisch": "slug",
+      "deutsch": "Schnecke"
+    },
+    {
+      "index": 115,
+      "englisch": "sea slug",
+      "deutsch": "Meeresschnecke"
+    },
+    {
+      "index": 116,
+      "englisch": "chiton",
+      "deutsch": "Chiton"
+    },
+    {
+      "index": 117,
+      "englisch": "chambered nautilus",
+      "deutsch": "gekammerter Nautilus"
+    },
+    {
+      "index": 118,
+      "englisch": "Dungeness crab",
+      "deutsch": "Dungeness-Krabbe"
+    },
+    {
+      "index": 119,
+      "englisch": "rock crab",
+      "deutsch": "Felsenkrabbe"
+    },
+    {
+      "index": 120,
+      "englisch": "fiddler crab",
+      "deutsch": "Winkerkrabbe"
+    },
+    {
+      "index": 121,
+      "englisch": "king crab",
+      "deutsch": "Königskrabbe"
+    },
+    {
+      "index": 122,
+      "englisch": "American lobster",
+      "deutsch": "Amerikanischer Hummer"
+    },
+    {
+      "index": 123,
+      "englisch": "spiny lobster",
+      "deutsch": "Languste"
+    },
+    {
+      "index": 124,
+      "englisch": "crayfish",
+      "deutsch": "Flusskrebs"
+    },
+    {
+      "index": 125,
+      "englisch": "hermit crab",
+      "deutsch": "Einsiedlerkrebs"
+    },
+    {
+      "index": 126,
+      "englisch": "isopod",
+      "deutsch": "Assel"
+    },
+    {
+      "index": 127,
+      "englisch": "white stork",
+      "deutsch": "Weißstorch"
+    },
+    {
+      "index": 128,
+      "englisch": "black stork",
+      "deutsch": "Schwarzstorch"
+    },
+    {
+      "index": 129,
+      "englisch": "spoonbill",
+      "deutsch": "Löffler"
+    },
+    {
+      "index": 130,
+      "englisch": "flamingo",
+      "deutsch": "Flamingo"
+    },
+    {
+      "index": 131,
+      "englisch": "little blue heron",
+      "deutsch": "kleiner blauer Reiher"
+    },
+    {
+      "index": 132,
+      "englisch": "American egret",
+      "deutsch": "Amerikanischer Reiher"
+    },
+    {
+      "index": 133,
+      "englisch": "bittern",
+      "deutsch": "Rohrdommel"
+    },
+    {
+      "index": 134,
+      "englisch": "crane",
+      "deutsch": "Kran"
+    },
+    {
+      "index": 135,
+      "englisch": "limpkin",
+      "deutsch": "Limpkin"
+    },
+    {
+      "index": 136,
+      "englisch": "European gallinule",
+      "deutsch": "Europäische Gallinule"
+    },
+    {
+      "index": 137,
+      "englisch": "American coot",
+      "deutsch": "Amerikanisches Blässhuhn"
+    },
+    {
+      "index": 138,
+      "englisch": "bustard",
+      "deutsch": "Trappe"
+    },
+    {
+      "index": 139,
+      "englisch": "ruddy turnstone",
+      "deutsch": "rötlicher Steinwälzer"
+    },
+    {
+      "index": 140,
+      "englisch": "red-backed sandpiper",
+      "deutsch": "Flussuferläufer"
+    },
+    {
+      "index": 141,
+      "englisch": "redshank",
+      "deutsch": "Rotschenkel"
+    },
+    {
+      "index": 142,
+      "englisch": "dowitcher",
+      "deutsch": "Dowitcher"
+    },
+    {
+      "index": 143,
+      "englisch": "oystercatcher",
+      "deutsch": "Austernfischer"
+    },
+    {
+      "index": 144,
+      "englisch": "pelican",
+      "deutsch": "Pelikan"
+    },
+    {
+      "index": 145,
+      "englisch": "king penguin",
+      "deutsch": "Königspinguin"
+    },
+    {
+      "index": 146,
+      "englisch": "albatross",
+      "deutsch": "Albatros"
+    },
+    {
+      "index": 147,
+      "englisch": "grey whale",
+      "deutsch": "Grauwal"
+    },
+    {
+      "index": 148,
+      "englisch": "killer whale",
+      "deutsch": "Killerwal"
+    },
+    {
+      "index": 149,
+      "englisch": "dugong",
+      "deutsch": "Dugong"
+    },
+    {
+      "index": 150,
+      "englisch": "sea lion",
+      "deutsch": "Seelöwe"
+    },
+    {
+      "index": 151,
+      "englisch": "Chihuahua",
+      "deutsch": "Chihuahua"
+    },
+    {
+      "index": 152,
+      "englisch": "Japanese spaniel",
+      "deutsch": "Japanischer Spaniel"
+    },
+    {
+      "index": 153,
+      "englisch": "Maltese dog",
+      "deutsch": "Malteser Hund"
+    },
+    {
+      "index": 154,
+      "englisch": "Pekinese",
+      "deutsch": "Pekinese"
+    },
+    {
+      "index": 155,
+      "englisch": "Shih-Tzu",
+      "deutsch": "Shih-Tzu"
+    },
+    {
+      "index": 156,
+      "englisch": "Blenheim spaniel",
+      "deutsch": "Blenheim-Spaniel"
+    },
+    {
+      "index": 157,
+      "englisch": "papillon",
+      "deutsch": "Papillon"
+    },
+    {
+      "index": 158,
+      "englisch": "toy terrier",
+      "deutsch": "Spielzeugterrier"
+    },
+    {
+      "index": 159,
+      "englisch": "Rhodesian ridgeback",
+      "deutsch": "Rhodesian Ridgeback"
+    },
+    {
+      "index": 160,
+      "englisch": "Afghan hound",
+      "deutsch": "Afghanischer Windhund"
+    },
+    {
+      "index": 161,
+      "englisch": "basset",
+      "deutsch": "Basset"
+    },
+    {
+      "index": 162,
+      "englisch": "beagle",
+      "deutsch": "Beagle"
+    },
+    {
+      "index": 163,
+      "englisch": "bloodhound",
+      "deutsch": "Bluthund"
+    },
+    {
+      "index": 164,
+      "englisch": "bluetick",
+      "deutsch": "Bluetick"
+    },
+    {
+      "index": 165,
+      "englisch": "black-and-tan coonhound",
+      "deutsch": "Black-and-Tan Coonhound"
+    },
+    {
+      "index": 166,
+      "englisch": "Walker hound",
+      "deutsch": "Wanderhund"
+    },
+    {
+      "index": 167,
+      "englisch": "English foxhound",
+      "deutsch": "Englischer Foxhound"
+    },
+    {
+      "index": 168,
+      "englisch": "redbone",
+      "deutsch": "Redbone"
+    },
+    {
+      "index": 169,
+      "englisch": "borzoi",
+      "deutsch": "Barsoi"
+    },
+    {
+      "index": 170,
+      "englisch": "Irish wolfhound",
+      "deutsch": "Irischer Wolfshund"
+    },
+    {
+      "index": 171,
+      "englisch": "Italian greyhound",
+      "deutsch": "Italienischer Windhund"
+    },
+    {
+      "index": 172,
+      "englisch": "whippet",
+      "deutsch": "Whippet"
+    },
+    {
+      "index": 173,
+      "englisch": "Ibizan hound",
+      "deutsch": "Ibizanischer Jagdhund"
+    },
+    {
+      "index": 174,
+      "englisch": "Norwegian elkhound",
+      "deutsch": "Norwegischer Elchhund"
+    },
+    {
+      "index": 175,
+      "englisch": "otterhound",
+      "deutsch": "Otterhund"
+    },
+    {
+      "index": 176,
+      "englisch": "Saluki",
+      "deutsch": "Saluki"
+    },
+    {
+      "index": 177,
+      "englisch": "Scottish deerhound",
+      "deutsch": "Schottischer Hirschhund"
+    },
+    {
+      "index": 178,
+      "englisch": "Weimaraner",
+      "deutsch": "Weimaraner"
+    },
+    {
+      "index": 179,
+      "englisch": "Staffordshire bullterrier",
+      "deutsch": "Staffordshire-Bullterrier"
+    },
+    {
+      "index": 180,
+      "englisch": "American Staffordshire terrier",
+      "deutsch": "Amerikanischer Staffordshire-Terrier"
+    },
+    {
+      "index": 181,
+      "englisch": "Bedlington terrier",
+      "deutsch": "Bedlington-Terrier"
+    },
+    {
+      "index": 182,
+      "englisch": "Border terrier",
+      "deutsch": "Border Terrier"
+    },
+    {
+      "index": 183,
+      "englisch": "Kerry blue terrier",
+      "deutsch": "Kerry Blue Terrier"
+    },
+    {
+      "index": 184,
+      "englisch": "Irish terrier",
+      "deutsch": "Irischer Terrier"
+    },
+    {
+      "index": 185,
+      "englisch": "Norfolk terrier",
+      "deutsch": "Norfolk-Terrier"
+    },
+    {
+      "index": 186,
+      "englisch": "Norwich terrier",
+      "deutsch": "Norwich-Terrier"
+    },
+    {
+      "index": 187,
+      "englisch": "Yorkshire terrier",
+      "deutsch": "Yorkshire-Terrier"
+    },
+    {
+      "index": 188,
+      "englisch": "wire-haired fox terrier",
+      "deutsch": "Rauhaar-Foxterrier"
+    },
+    {
+      "index": 189,
+      "englisch": "Lakeland terrier",
+      "deutsch": "Lakeland-Terrier"
+    },
+    {
+      "index": 190,
+      "englisch": "Sealyham terrier",
+      "deutsch": "Sealyham-Terrier"
+    },
+    {
+      "index": 191,
+      "englisch": "Airedale",
+      "deutsch": "Airedale"
+    },
+    {
+      "index": 192,
+      "englisch": "cairn",
+      "deutsch": "Steinhaufen"
+    },
+    {
+      "index": 193,
+      "englisch": "Australian terrier",
+      "deutsch": "Australischer Terrier"
+    },
+    {
+      "index": 194,
+      "englisch": "Dandie Dinmont",
+      "deutsch": "Dandie Dinmont"
+    },
+    {
+      "index": 195,
+      "englisch": "Boston bull",
+      "deutsch": "Bostoner Bulle"
+    },
+    {
+      "index": 196,
+      "englisch": "miniature schnauzer",
+      "deutsch": "Zwergschnauzer"
+    },
+    {
+      "index": 197,
+      "englisch": "giant schnauzer",
+      "deutsch": "Riesenschnauzer"
+    },
+    {
+      "index": 198,
+      "englisch": "standard schnauzer",
+      "deutsch": "Standardschnauzer"
+    },
+    {
+      "index": 199,
+      "englisch": "Scotch terrier",
+      "deutsch": "Scotch-Terrier"
+    },
+    {
+      "index": 200,
+      "englisch": "Tibetan terrier",
+      "deutsch": "Tibetischer Terrier"
+    },
+    {
+      "index": 201,
+      "englisch": "silky terrier",
+      "deutsch": "Seidenterrier"
+    },
+    {
+      "index": 202,
+      "englisch": "soft-coated wheaten terrier",
+      "deutsch": "weichhaariger Wheaten Terrier"
+    },
+    {
+      "index": 203,
+      "englisch": "West Highland white terrier",
+      "deutsch": "West Highland White Terrier"
+    },
+    {
+      "index": 204,
+      "englisch": "Lhasa",
+      "deutsch": "Lhasa"
+    },
+    {
+      "index": 205,
+      "englisch": "flat-coated retriever",
+      "deutsch": "Flatcoated Retriever"
+    },
+    {
+      "index": 206,
+      "englisch": "curly-coated retriever",
+      "deutsch": "Curly Coated Retriever"
+    },
+    {
+      "index": 207,
+      "englisch": "golden retriever",
+      "deutsch": "Golden Retriever"
+    },
+    {
+      "index": 208,
+      "englisch": "Labrador retriever",
+      "deutsch": "Labrador-Retriever"
+    },
+    {
+      "index": 209,
+      "englisch": "Chesapeake Bay retriever",
+      "deutsch": "Chesapeake Bay Retriever"
+    },
+    {
+      "index": 210,
+      "englisch": "German short-haired pointer",
+      "deutsch": "Deutscher Kurzhaarvorstehhund"
+    },
+    {
+      "index": 211,
+      "englisch": "vizsla",
+      "deutsch": "vizsla"
+    },
+    {
+      "index": 212,
+      "englisch": "English setter",
+      "deutsch": "Englischer Setter"
+    },
+    {
+      "index": 213,
+      "englisch": "Irish setter",
+      "deutsch": "Irish Setter"
+    },
+    {
+      "index": 214,
+      "englisch": "Gordon setter",
+      "deutsch": "Gordon-Setter"
+    },
+    {
+      "index": 215,
+      "englisch": "Brittany spaniel",
+      "deutsch": "Bretagne Spaniel"
+    },
+    {
+      "index": 216,
+      "englisch": "clumber",
+      "deutsch": "Klempner"
+    },
+    {
+      "index": 217,
+      "englisch": "English springer",
+      "deutsch": "Englischer Springer"
+    },
+    {
+      "index": 218,
+      "englisch": "Welsh springer spaniel",
+      "deutsch": "Welsh Springer Spaniel"
+    },
+    {
+      "index": 219,
+      "englisch": "cocker spaniel",
+      "deutsch": "Cocker Spaniel"
+    },
+    {
+      "index": 220,
+      "englisch": "Sussex spaniel",
+      "deutsch": "Sussex-Spaniel"
+    },
+    {
+      "index": 221,
+      "englisch": "Irish water spaniel",
+      "deutsch": "Irischer Wasserspaniel"
+    },
+    {
+      "index": 222,
+      "englisch": "kuvasz",
+      "deutsch": "kuvasz"
+    },
+    {
+      "index": 223,
+      "englisch": "schipperke",
+      "deutsch": "Schipperke"
+    },
+    {
+      "index": 224,
+      "englisch": "groenendael",
+      "deutsch": "Groenendael"
+    },
+    {
+      "index": 225,
+      "englisch": "malinois",
+      "deutsch": "Malinois"
+    },
+    {
+      "index": 226,
+      "englisch": "briard",
+      "deutsch": "Briard"
+    },
+    {
+      "index": 227,
+      "englisch": "kelpie",
+      "deutsch": "Kelpie"
+    },
+    {
+      "index": 228,
+      "englisch": "komondor",
+      "deutsch": "komondor"
+    },
+    {
+      "index": 229,
+      "englisch": "Old English sheepdog",
+      "deutsch": "Alter englischer Schäferhund"
+    },
+    {
+      "index": 230,
+      "englisch": "Shetland sheepdog",
+      "deutsch": "Shetland-Schäferhund"
+    },
+    {
+      "index": 231,
+      "englisch": "collie",
+      "deutsch": "Collie"
+    },
+    {
+      "index": 232,
+      "englisch": "Border collie",
+      "deutsch": "Border-Collie"
+    },
+    {
+      "index": 233,
+      "englisch": "Bouvier des Flandres",
+      "deutsch": "Bouvier des Flandres"
+    },
+    {
+      "index": 234,
+      "englisch": "Rottweiler",
+      "deutsch": "Rottweiler"
+    },
+    {
+      "index": 235,
+      "englisch": "German shepherd",
+      "deutsch": "Deutscher Schäferhund"
+    },
+    {
+      "index": 236,
+      "englisch": "Doberman",
+      "deutsch": "Dobermann"
+    },
+    {
+      "index": 237,
+      "englisch": "miniature pinscher",
+      "deutsch": "Zwergpinscher"
+    },
+    {
+      "index": 238,
+      "englisch": "Greater Swiss Mountain dog",
+      "deutsch": "Großer Schweizer Sennenhund"
+    },
+    {
+      "index": 239,
+      "englisch": "Bernese mountain dog",
+      "deutsch": "Berner Sennenhund"
+    },
+    {
+      "index": 240,
+      "englisch": "Appenzeller",
+      "deutsch": "Appenzeller"
+    },
+    {
+      "index": 241,
+      "englisch": "EntleBucher",
+      "deutsch": "EntleBucher"
+    },
+    {
+      "index": 242,
+      "englisch": "boxer",
+      "deutsch": "Boxer"
+    },
+    {
+      "index": 243,
+      "englisch": "bull mastiff",
+      "deutsch": "Bullmastiff"
+    },
+    {
+      "index": 244,
+      "englisch": "Tibetan mastiff",
+      "deutsch": "Tibetischer Mastiff"
+    },
+    {
+      "index": 245,
+      "englisch": "French bulldog",
+      "deutsch": "Französische Bulldogge"
+    },
+    {
+      "index": 246,
+      "englisch": "Great Dane",
+      "deutsch": "Deutsche Dogge"
+    },
+    {
+      "index": 247,
+      "englisch": "Saint Bernard",
+      "deutsch": "Sankt Bernhard"
+    },
+    {
+      "index": 248,
+      "englisch": "Eskimo dog",
+      "deutsch": "Eskimohund"
+    },
+    {
+      "index": 249,
+      "englisch": "malamute",
+      "deutsch": "Malamute"
+    },
+    {
+      "index": 250,
+      "englisch": "Siberian husky",
+      "deutsch": "Sibirischer Husky"
+    },
+    {
+      "index": 251,
+      "englisch": "dalmatian",
+      "deutsch": "Dalmatiner"
+    },
+    {
+      "index": 252,
+      "englisch": "affenpinscher",
+      "deutsch": "Affenpinscher"
+    },
+    {
+      "index": 253,
+      "englisch": "basenji",
+      "deutsch": "Basenji"
+    },
+    {
+      "index": 254,
+      "englisch": "pug",
+      "deutsch": "Mops"
+    },
+    {
+      "index": 255,
+      "englisch": "Leonberg",
+      "deutsch": "Leonberg"
+    },
+    {
+      "index": 256,
+      "englisch": "Newfoundland",
+      "deutsch": "Neufundland"
+    },
+    {
+      "index": 257,
+      "englisch": "Great Pyrenees",
+      "deutsch": "Große Pyrenäen"
+    },
+    {
+      "index": 258,
+      "englisch": "Samoyed",
+      "deutsch": "Samojede"
+    },
+    {
+      "index": 259,
+      "englisch": "Pomeranian",
+      "deutsch": "Pommern"
+    },
+    {
+      "index": 260,
+      "englisch": "chow",
+      "deutsch": "Chow"
+    },
+    {
+      "index": 261,
+      "englisch": "keeshond",
+      "deutsch": "Keeshond"
+    },
+    {
+      "index": 262,
+      "englisch": "Brabancon griffon",
+      "deutsch": "Brabancon-Greif"
+    },
+    {
+      "index": 263,
+      "englisch": "Pembroke",
+      "deutsch": "Pembroke"
+    },
+    {
+      "index": 264,
+      "englisch": "Cardigan",
+      "deutsch": "Strickjacke"
+    },
+    {
+      "index": 265,
+      "englisch": "toy poodle",
+      "deutsch": "Zwergpudel"
+    },
+    {
+      "index": 266,
+      "englisch": "miniature poodle",
+      "deutsch": "Zwergpudel"
+    },
+    {
+      "index": 267,
+      "englisch": "standard poodle",
+      "deutsch": "Standardpudel"
+    },
+    {
+      "index": 268,
+      "englisch": "Mexican hairless",
+      "deutsch": "Mexikanischer Haarloser"
+    },
+    {
+      "index": 269,
+      "englisch": "timber wolf",
+      "deutsch": "Timberwolf"
+    },
+    {
+      "index": 270,
+      "englisch": "white wolf",
+      "deutsch": "weißer Wolf"
+    },
+    {
+      "index": 271,
+      "englisch": "red wolf",
+      "deutsch": "roter Wolf"
+    },
+    {
+      "index": 272,
+      "englisch": "coyote",
+      "deutsch": "Kojote"
+    },
+    {
+      "index": 273,
+      "englisch": "dingo",
+      "deutsch": "Dingo"
+    },
+    {
+      "index": 274,
+      "englisch": "dhole",
+      "deutsch": "dhole"
+    },
+    {
+      "index": 275,
+      "englisch": "African hunting dog",
+      "deutsch": "Afrikanischer Jagdhund"
+    },
+    {
+      "index": 276,
+      "englisch": "hyena",
+      "deutsch": "Hyäne"
+    },
+    {
+      "index": 277,
+      "englisch": "red fox",
+      "deutsch": "Rotfuchs"
+    },
+    {
+      "index": 278,
+      "englisch": "kit fox",
+      "deutsch": "Kit Fuchs"
+    },
+    {
+      "index": 279,
+      "englisch": "Arctic fox",
+      "deutsch": "Polarfuchs"
+    },
+    {
+      "index": 280,
+      "englisch": "grey fox",
+      "deutsch": "grauer Fuchs"
+    },
+    {
+      "index": 281,
+      "englisch": "tabby",
+      "deutsch": "Tabby"
+    },
+    {
+      "index": 282,
+      "englisch": "tiger cat",
+      "deutsch": "Tigerkatze"
+    },
+    {
+      "index": 283,
+      "englisch": "Persian cat",
+      "deutsch": "Perserkatze"
+    },
+    {
+      "index": 284,
+      "englisch": "Siamese cat",
+      "deutsch": "Siamkatze"
+    },
+    {
+      "index": 285,
+      "englisch": "Egyptian cat",
+      "deutsch": "Ägyptische Katze"
+    },
+    {
+      "index": 286,
+      "englisch": "cougar",
+      "deutsch": "Puma"
+    },
+    {
+      "index": 287,
+      "englisch": "lynx",
+      "deutsch": "Luchs"
+    },
+    {
+      "index": 288,
+      "englisch": "leopard",
+      "deutsch": "Leopard"
+    },
+    {
+      "index": 289,
+      "englisch": "snow leopard",
+      "deutsch": "Schneeleopard"
+    },
+    {
+      "index": 290,
+      "englisch": "jaguar",
+      "deutsch": "Jaguar"
+    },
+    {
+      "index": 291,
+      "englisch": "lion",
+      "deutsch": "Löwe"
+    },
+    {
+      "index": 292,
+      "englisch": "tiger",
+      "deutsch": "Tiger"
+    },
+    {
+      "index": 293,
+      "englisch": "cheetah",
+      "deutsch": "Gepard"
+    },
+    {
+      "index": 294,
+      "englisch": "brown bear",
+      "deutsch": "Braunbär"
+    },
+    {
+      "index": 295,
+      "englisch": "American black bear",
+      "deutsch": "Amerikanischer Schwarzbär"
+    },
+    {
+      "index": 296,
+      "englisch": "ice bear",
+      "deutsch": "Eisbär"
+    },
+    {
+      "index": 297,
+      "englisch": "sloth bear",
+      "deutsch": "Faultierbär"
+    },
+    {
+      "index": 298,
+      "englisch": "mongoose",
+      "deutsch": "Mungo"
+    },
+    {
+      "index": 299,
+      "englisch": "meerkat",
+      "deutsch": "Erdmännchen"
+    },
+    {
+      "index": 300,
+      "englisch": "tiger beetle",
+      "deutsch": "Tigerkäfer"
+    },
+    {
+      "index": 301,
+      "englisch": "ladybug",
+      "deutsch": "Marienkäfer"
+    },
+    {
+      "index": 302,
+      "englisch": "ground beetle",
+      "deutsch": "Laufkäfer"
+    },
+    {
+      "index": 303,
+      "englisch": "long-horned beetle",
+      "deutsch": "Laubholzbockkäfer"
+    },
+    {
+      "index": 304,
+      "englisch": "leaf beetle",
+      "deutsch": "Blattkäfer"
+    },
+    {
+      "index": 305,
+      "englisch": "dung beetle",
+      "deutsch": "Mistkäfer"
+    },
+    {
+      "index": 306,
+      "englisch": "rhinoceros beetle",
+      "deutsch": "Nashornkäfer"
+    },
+    {
+      "index": 307,
+      "englisch": "weevil",
+      "deutsch": "Rüsselkäfer"
+    },
+    {
+      "index": 308,
+      "englisch": "fly",
+      "deutsch": "fliegen"
+    },
+    {
+      "index": 309,
+      "englisch": "bee",
+      "deutsch": "Biene"
+    },
+    {
+      "index": 310,
+      "englisch": "ant",
+      "deutsch": "Ameise"
+    },
+    {
+      "index": 311,
+      "englisch": "grasshopper",
+      "deutsch": "Heuschrecke"
+    },
+    {
+      "index": 312,
+      "englisch": "cricket",
+      "deutsch": "Kricket"
+    },
+    {
+      "index": 313,
+      "englisch": "walking stick",
+      "deutsch": "Spazierstock"
+    },
+    {
+      "index": 314,
+      "englisch": "cockroach",
+      "deutsch": "Kakerlake"
+    },
+    {
+      "index": 315,
+      "englisch": "mantis",
+      "deutsch": "Gottesanbeterin"
+    },
+    {
+      "index": 316,
+      "englisch": "cicada",
+      "deutsch": "Zikade"
+    },
+    {
+      "index": 317,
+      "englisch": "leafhopper",
+      "deutsch": "Zikaden"
+    },
+    {
+      "index": 318,
+      "englisch": "lacewing",
+      "deutsch": "Florfliege"
+    },
+    {
+      "index": 319,
+      "englisch": "dragonfly",
+      "deutsch": "Libelle"
+    },
+    {
+      "index": 320,
+      "englisch": "damselfly",
+      "deutsch": "Damselfly"
+    },
+    {
+      "index": 321,
+      "englisch": "admiral",
+      "deutsch": "Admiral"
+    },
+    {
+      "index": 322,
+      "englisch": "ringlet",
+      "deutsch": "Ringel"
+    },
+    {
+      "index": 323,
+      "englisch": "monarch",
+      "deutsch": "Monarch"
+    },
+    {
+      "index": 324,
+      "englisch": "cabbage butterfly",
+      "deutsch": "Kohlschmetterling"
+    },
+    {
+      "index": 325,
+      "englisch": "sulphur butterfly",
+      "deutsch": "Schwefelschmetterling"
+    },
+    {
+      "index": 326,
+      "englisch": "lycaenid",
+      "deutsch": "Lycaenid"
+    },
+    {
+      "index": 327,
+      "englisch": "starfish",
+      "deutsch": "Seestern"
+    },
+    {
+      "index": 328,
+      "englisch": "sea urchin",
+      "deutsch": "Seeigel"
+    },
+    {
+      "index": 329,
+      "englisch": "sea cucumber",
+      "deutsch": "Seegurke"
+    },
+    {
+      "index": 330,
+      "englisch": "wood rabbit",
+      "deutsch": "Holzkaninchen"
+    },
+    {
+      "index": 331,
+      "englisch": "hare",
+      "deutsch": "Hase"
+    },
+    {
+      "index": 332,
+      "englisch": "Angora",
+      "deutsch": "Angora"
+    },
+    {
+      "index": 333,
+      "englisch": "hamster",
+      "deutsch": "Hamster"
+    },
+    {
+      "index": 334,
+      "englisch": "porcupine",
+      "deutsch": "Stachelschwein"
+    },
+    {
+      "index": 335,
+      "englisch": "fox squirrel",
+      "deutsch": "Fuchs-Eichhörnchen"
+    },
+    {
+      "index": 336,
+      "englisch": "marmot",
+      "deutsch": "Murmeltier"
+    },
+    {
+      "index": 337,
+      "englisch": "beaver",
+      "deutsch": "Biber"
+    },
+    {
+      "index": 338,
+      "englisch": "guinea pig",
+      "deutsch": "Meerschweinchen"
+    },
+    {
+      "index": 339,
+      "englisch": "sorrel",
+      "deutsch": "Sauerampfer"
+    },
+    {
+      "index": 340,
+      "englisch": "zebra",
+      "deutsch": "Zebra"
+    },
+    {
+      "index": 341,
+      "englisch": "hog",
+      "deutsch": "Schwein"
+    },
+    {
+      "index": 342,
+      "englisch": "wild boar",
+      "deutsch": "Wildschwein"
+    },
+    {
+      "index": 343,
+      "englisch": "warthog",
+      "deutsch": "Warzenschwein"
+    },
+    {
+      "index": 344,
+      "englisch": "hippopotamus",
+      "deutsch": "Nilpferd"
+    },
+    {
+      "index": 345,
+      "englisch": "ox",
+      "deutsch": "Ochse"
+    },
+    {
+      "index": 346,
+      "englisch": "water buffalo",
+      "deutsch": "Wasserbüffel"
+    },
+    {
+      "index": 347,
+      "englisch": "bison",
+      "deutsch": "Bison"
+    },
+    {
+      "index": 348,
+      "englisch": "ram",
+      "deutsch": "RAM"
+    },
+    {
+      "index": 349,
+      "englisch": "bighorn",
+      "deutsch": "Dickhorn"
+    },
+    {
+      "index": 350,
+      "englisch": "ibex",
+      "deutsch": "Steinbock"
+    },
+    {
+      "index": 351,
+      "englisch": "hartebeest",
+      "deutsch": "Kuhantilope"
+    },
+    {
+      "index": 352,
+      "englisch": "impala",
+      "deutsch": "Impala"
+    },
+    {
+      "index": 353,
+      "englisch": "gazelle",
+      "deutsch": "Gazelle"
+    },
+    {
+      "index": 354,
+      "englisch": "Arabian camel",
+      "deutsch": "Arabisches Kamel"
+    },
+    {
+      "index": 355,
+      "englisch": "llama",
+      "deutsch": "Lama"
+    },
+    {
+      "index": 356,
+      "englisch": "weasel",
+      "deutsch": "Wiesel"
+    },
+    {
+      "index": 357,
+      "englisch": "mink",
+      "deutsch": "Nerz"
+    },
+    {
+      "index": 358,
+      "englisch": "polecat",
+      "deutsch": "Iltis"
+    },
+    {
+      "index": 359,
+      "englisch": "black-footed ferret",
+      "deutsch": "Schwarzfußfrettchen"
+    },
+    {
+      "index": 360,
+      "englisch": "otter",
+      "deutsch": "Otter"
+    },
+    {
+      "index": 361,
+      "englisch": "skunk",
+      "deutsch": "Skunk"
+    },
+    {
+      "index": 362,
+      "englisch": "badger",
+      "deutsch": "Dachs"
+    },
+    {
+      "index": 363,
+      "englisch": "armadillo",
+      "deutsch": "Gürteltier"
+    },
+    {
+      "index": 364,
+      "englisch": "three-toed sloth",
+      "deutsch": "Dreifingerfaultier"
+    },
+    {
+      "index": 365,
+      "englisch": "orangutan",
+      "deutsch": "Orang-Utan"
+    },
+    {
+      "index": 366,
+      "englisch": "gorilla",
+      "deutsch": "Gorilla"
+    },
+    {
+      "index": 367,
+      "englisch": "chimpanzee",
+      "deutsch": "Schimpanse"
+    },
+    {
+      "index": 368,
+      "englisch": "gibbon",
+      "deutsch": "Gibbon"
+    },
+    {
+      "index": 369,
+      "englisch": "siamang",
+      "deutsch": "Siamang"
+    },
+    {
+      "index": 370,
+      "englisch": "guenon",
+      "deutsch": "Guenon"
+    },
+    {
+      "index": 371,
+      "englisch": "patas",
+      "deutsch": "Patas"
+    },
+    {
+      "index": 372,
+      "englisch": "baboon",
+      "deutsch": "Pavian"
+    },
+    {
+      "index": 373,
+      "englisch": "macaque",
+      "deutsch": "Makaken"
+    },
+    {
+      "index": 374,
+      "englisch": "langur",
+      "deutsch": "Langur"
+    },
+    {
+      "index": 375,
+      "englisch": "colobus",
+      "deutsch": "Colobus"
+    },
+    {
+      "index": 376,
+      "englisch": "proboscis monkey",
+      "deutsch": "Nasenaffe"
+    },
+    {
+      "index": 377,
+      "englisch": "marmoset",
+      "deutsch": "Weißbüschelaffe"
+    },
+    {
+      "index": 378,
+      "englisch": "capuchin",
+      "deutsch": "Kapuziner"
+    },
+    {
+      "index": 379,
+      "englisch": "howler monkey",
+      "deutsch": "Brüllaffe"
+    },
+    {
+      "index": 380,
+      "englisch": "titi",
+      "deutsch": "titi"
+    },
+    {
+      "index": 381,
+      "englisch": "spider monkey",
+      "deutsch": "Klammeraffe"
+    },
+    {
+      "index": 382,
+      "englisch": "squirrel monkey",
+      "deutsch": "Totenkopfäffchen"
+    },
+    {
+      "index": 383,
+      "englisch": "Madagascar cat",
+      "deutsch": "Madagaskar-Katze"
+    },
+    {
+      "index": 384,
+      "englisch": "indri",
+      "deutsch": "indri"
+    },
+    {
+      "index": 385,
+      "englisch": "Indian elephant",
+      "deutsch": "Indischer Elefant"
+    },
+    {
+      "index": 386,
+      "englisch": "African elephant",
+      "deutsch": "Afrikanischer Elefant"
+    },
+    {
+      "index": 387,
+      "englisch": "lesser panda",
+      "deutsch": "Kleiner Panda"
+    },
+    {
+      "index": 388,
+      "englisch": "giant panda",
+      "deutsch": "Riesenpanda"
+    },
+    {
+      "index": 389,
+      "englisch": "barracouta",
+      "deutsch": "barracouta"
+    },
+    {
+      "index": 390,
+      "englisch": "eel",
+      "deutsch": "Aal"
+    },
+    {
+      "index": 391,
+      "englisch": "coho",
+      "deutsch": "coho"
+    },
+    {
+      "index": 392,
+      "englisch": "rock beauty",
+      "deutsch": "Rockschönheit"
+    },
+    {
+      "index": 393,
+      "englisch": "anemone fish",
+      "deutsch": "Anemonenfisch"
+    },
+    {
+      "index": 394,
+      "englisch": "sturgeon",
+      "deutsch": "Stör"
+    },
+    {
+      "index": 395,
+      "englisch": "gar",
+      "deutsch": "gar"
+    },
+    {
+      "index": 396,
+      "englisch": "lionfish",
+      "deutsch": "Rotfeuerfisch"
+    },
+    {
+      "index": 397,
+      "englisch": "puffer",
+      "deutsch": "Kugelfisch"
+    },
+    {
+      "index": 398,
+      "englisch": "abacus",
+      "deutsch": "Abakus"
+    },
+    {
+      "index": 399,
+      "englisch": "abaya",
+      "deutsch": "Abaya"
+    },
+    {
+      "index": 400,
+      "englisch": "academic gown",
+      "deutsch": "akademisches Gewand"
+    },
+    {
+      "index": 401,
+      "englisch": "accordion",
+      "deutsch": "Akkordeon"
+    },
+    {
+      "index": 402,
+      "englisch": "acoustic guitar",
+      "deutsch": "Akustikgitarre"
+    },
+    {
+      "index": 403,
+      "englisch": "aircraft carrier",
+      "deutsch": "Flugzeugträger"
+    },
+    {
+      "index": 404,
+      "englisch": "airliner",
+      "deutsch": "Verkehrsflugzeug"
+    },
+    {
+      "index": 405,
+      "englisch": "airship",
+      "deutsch": "Luftschiff"
+    },
+    {
+      "index": 406,
+      "englisch": "altar",
+      "deutsch": "Altar"
+    },
+    {
+      "index": 407,
+      "englisch": "ambulance",
+      "deutsch": "Krankenwagen"
+    },
+    {
+      "index": 408,
+      "englisch": "amphibian",
+      "deutsch": "Amphibie"
+    },
+    {
+      "index": 409,
+      "englisch": "analog clock",
+      "deutsch": "analoge Uhr"
+    },
+    {
+      "index": 410,
+      "englisch": "apiary",
+      "deutsch": "Bienenhaus"
+    },
+    {
+      "index": 411,
+      "englisch": "apron",
+      "deutsch": "Schürze"
+    },
+    {
+      "index": 412,
+      "englisch": "ashcan",
+      "deutsch": "Aschenbecher"
+    },
+    {
+      "index": 413,
+      "englisch": "assault rifle",
+      "deutsch": "Sturmgewehr"
+    },
+    {
+      "index": 414,
+      "englisch": "backpack",
+      "deutsch": "Rucksack"
+    },
+    {
+      "index": 415,
+      "englisch": "bakery",
+      "deutsch": "Bäckerei"
+    },
+    {
+      "index": 416,
+      "englisch": "balance beam",
+      "deutsch": "Schwebebalken"
+    },
+    {
+      "index": 417,
+      "englisch": "balloon",
+      "deutsch": "Ballon"
+    },
+    {
+      "index": 418,
+      "englisch": "ballpoint",
+      "deutsch": "Kugelschreiber"
+    },
+    {
+      "index": 419,
+      "englisch": "Band Aid",
+      "deutsch": "Pflaster"
+    },
+    {
+      "index": 420,
+      "englisch": "banjo",
+      "deutsch": "Banjo"
+    },
+    {
+      "index": 421,
+      "englisch": "bannister",
+      "deutsch": "Geländer"
+    },
+    {
+      "index": 422,
+      "englisch": "barbell",
+      "deutsch": "Hantel"
+    },
+    {
+      "index": 423,
+      "englisch": "barber chair",
+      "deutsch": "Friseurstuhl"
+    },
+    {
+      "index": 424,
+      "englisch": "barbershop",
+      "deutsch": "Friseurladen"
+    },
+    {
+      "index": 425,
+      "englisch": "barn",
+      "deutsch": "Scheune"
+    },
+    {
+      "index": 426,
+      "englisch": "barometer",
+      "deutsch": "Barometer"
+    },
+    {
+      "index": 427,
+      "englisch": "barrel",
+      "deutsch": "Fass"
+    },
+    {
+      "index": 428,
+      "englisch": "barrow",
+      "deutsch": "Karren"
+    },
+    {
+      "index": 429,
+      "englisch": "baseball",
+      "deutsch": "Baseball"
+    },
+    {
+      "index": 430,
+      "englisch": "basketball",
+      "deutsch": "Basketball"
+    },
+    {
+      "index": 431,
+      "englisch": "bassinet",
+      "deutsch": "Stubenwagen"
+    },
+    {
+      "index": 432,
+      "englisch": "bassoon",
+      "deutsch": "Fagott"
+    },
+    {
+      "index": 433,
+      "englisch": "bathing cap",
+      "deutsch": "Bademütze"
+    },
+    {
+      "index": 434,
+      "englisch": "bath towel",
+      "deutsch": "Badetuch"
+    },
+    {
+      "index": 435,
+      "englisch": "bathtub",
+      "deutsch": "Badewanne"
+    },
+    {
+      "index": 436,
+      "englisch": "beach wagon",
+      "deutsch": "Strandwagen"
+    },
+    {
+      "index": 437,
+      "englisch": "beacon",
+      "deutsch": "Leuchtfeuer"
+    },
+    {
+      "index": 438,
+      "englisch": "beaker",
+      "deutsch": "Becherglas"
+    },
+    {
+      "index": 439,
+      "englisch": "bearskin",
+      "deutsch": "Bärenfell"
+    },
+    {
+      "index": 440,
+      "englisch": "beer bottle",
+      "deutsch": "Bierflasche"
+    },
+    {
+      "index": 441,
+      "englisch": "beer glass",
+      "deutsch": "Bierglas"
+    },
+    {
+      "index": 442,
+      "englisch": "bell cote",
+      "deutsch": "Bell Cote"
+    },
+    {
+      "index": 443,
+      "englisch": "bib",
+      "deutsch": "Lätzchen"
+    },
+    {
+      "index": 444,
+      "englisch": "bicycle-built-for-two",
+      "deutsch": "Fahrrad für zwei Personen"
+    },
+    {
+      "index": 445,
+      "englisch": "bikini",
+      "deutsch": "Bikini"
+    },
+    {
+      "index": 446,
+      "englisch": "binder",
+      "deutsch": "Bindemittel"
+    },
+    {
+      "index": 447,
+      "englisch": "binoculars",
+      "deutsch": "Fernglas"
+    },
+    {
+      "index": 448,
+      "englisch": "birdhouse",
+      "deutsch": "Vogelhaus"
+    },
+    {
+      "index": 449,
+      "englisch": "boathouse",
+      "deutsch": "Bootshaus"
+    },
+    {
+      "index": 450,
+      "englisch": "bobsled",
+      "deutsch": "Bob"
+    },
+    {
+      "index": 451,
+      "englisch": "bolo tie",
+      "deutsch": "Bolotie"
+    },
+    {
+      "index": 452,
+      "englisch": "bonnet",
+      "deutsch": "Motorhaube"
+    },
+    {
+      "index": 453,
+      "englisch": "bookcase",
+      "deutsch": "Bücherregal"
+    },
+    {
+      "index": 454,
+      "englisch": "bookshop",
+      "deutsch": "Buchhandlung"
+    },
+    {
+      "index": 455,
+      "englisch": "bottlecap",
+      "deutsch": "Flaschenverschluss"
+    },
+    {
+      "index": 456,
+      "englisch": "bow",
+      "deutsch": "Bogen"
+    },
+    {
+      "index": 457,
+      "englisch": "bow tie",
+      "deutsch": "Fliege"
+    },
+    {
+      "index": 458,
+      "englisch": "brass",
+      "deutsch": "Messing"
+    },
+    {
+      "index": 459,
+      "englisch": "brassiere",
+      "deutsch": "Büstenhalter"
+    },
+    {
+      "index": 460,
+      "englisch": "breakwater",
+      "deutsch": "Wellenbrecher"
+    },
+    {
+      "index": 461,
+      "englisch": "breastplate",
+      "deutsch": "Brustplatte"
+    },
+    {
+      "index": 462,
+      "englisch": "broom",
+      "deutsch": "Besen"
+    },
+    {
+      "index": 463,
+      "englisch": "bucket",
+      "deutsch": "Eimer"
+    },
+    {
+      "index": 464,
+      "englisch": "buckle",
+      "deutsch": "Schnalle"
+    },
+    {
+      "index": 465,
+      "englisch": "bulletproof vest",
+      "deutsch": "kugelsichere Weste"
+    },
+    {
+      "index": 466,
+      "englisch": "bullet train",
+      "deutsch": "Hochgeschwindigkeitszug"
+    },
+    {
+      "index": 467,
+      "englisch": "butcher shop",
+      "deutsch": "Metzgerei"
+    },
+    {
+      "index": 468,
+      "englisch": "cab",
+      "deutsch": "Kabine"
+    },
+    {
+      "index": 469,
+      "englisch": "caldron",
+      "deutsch": "Kessel"
+    },
+    {
+      "index": 470,
+      "englisch": "candle",
+      "deutsch": "Kerze"
+    },
+    {
+      "index": 471,
+      "englisch": "cannon",
+      "deutsch": "Kanone"
+    },
+    {
+      "index": 472,
+      "englisch": "canoe",
+      "deutsch": "Kanu"
+    },
+    {
+      "index": 473,
+      "englisch": "can opener",
+      "deutsch": "Dosenöffner"
+    },
+    {
+      "index": 474,
+      "englisch": "cardigan",
+      "deutsch": "Strickjacke"
+    },
+    {
+      "index": 475,
+      "englisch": "car mirror",
+      "deutsch": "Autospiegel"
+    },
+    {
+      "index": 476,
+      "englisch": "carousel",
+      "deutsch": "Karussell"
+    },
+    {
+      "index": 477,
+      "englisch": "carpenter's kit",
+      "deutsch": "Tischlerset"
+    },
+    {
+      "index": 478,
+      "englisch": "carton",
+      "deutsch": "Karton"
+    },
+    {
+      "index": 479,
+      "englisch": "car wheel",
+      "deutsch": "Autorad"
+    },
+    {
+      "index": 480,
+      "englisch": "cash machine",
+      "deutsch": "Geldautomat"
+    },
+    {
+      "index": 481,
+      "englisch": "cassette",
+      "deutsch": "Kassette"
+    },
+    {
+      "index": 482,
+      "englisch": "cassette player",
+      "deutsch": "Kassettenspieler"
+    },
+    {
+      "index": 483,
+      "englisch": "castle",
+      "deutsch": "Schloss"
+    },
+    {
+      "index": 484,
+      "englisch": "catamaran",
+      "deutsch": "Katamaran"
+    },
+    {
+      "index": 485,
+      "englisch": "CD player",
+      "deutsch": "CD-Player"
+    },
+    {
+      "index": 486,
+      "englisch": "cello",
+      "deutsch": "Cello"
+    },
+    {
+      "index": 487,
+      "englisch": "cellular telephone",
+      "deutsch": "Mobiltelefon"
+    },
+    {
+      "index": 488,
+      "englisch": "chain",
+      "deutsch": "Kette"
+    },
+    {
+      "index": 489,
+      "englisch": "chainlink fence",
+      "deutsch": "Maschendrahtzaun"
+    },
+    {
+      "index": 490,
+      "englisch": "chain mail",
+      "deutsch": "Kettenhemd"
+    },
+    {
+      "index": 491,
+      "englisch": "chain saw",
+      "deutsch": "Kettensäge"
+    },
+    {
+      "index": 492,
+      "englisch": "chest",
+      "deutsch": "Brust"
+    },
+    {
+      "index": 493,
+      "englisch": "chiffonier",
+      "deutsch": "Chiffonnier"
+    },
+    {
+      "index": 494,
+      "englisch": "chime",
+      "deutsch": "Glockenspiel"
+    },
+    {
+      "index": 495,
+      "englisch": "china cabinet",
+      "deutsch": "Porzellanschrank"
+    },
+    {
+      "index": 496,
+      "englisch": "Christmas stocking",
+      "deutsch": "Weihnachtsstrumpf"
+    },
+    {
+      "index": 497,
+      "englisch": "church",
+      "deutsch": "Kirche"
+    },
+    {
+      "index": 498,
+      "englisch": "cinema",
+      "deutsch": "Kino"
+    },
+    {
+      "index": 499,
+      "englisch": "cleaver",
+      "deutsch": "Hackmesser"
+    },
+    {
+      "index": 500,
+      "englisch": "cliff dwelling",
+      "deutsch": "Klippenwohnung"
+    },
+    {
+      "index": 501,
+      "englisch": "cloak",
+      "deutsch": "Mantel"
+    },
+    {
+      "index": 502,
+      "englisch": "clog",
+      "deutsch": "verstopfen"
+    },
+    {
+      "index": 503,
+      "englisch": "cocktail shaker",
+      "deutsch": "Cocktailshaker"
+    },
+    {
+      "index": 504,
+      "englisch": "coffee mug",
+      "deutsch": "Kaffeebecher"
+    },
+    {
+      "index": 505,
+      "englisch": "coffeepot",
+      "deutsch": "Kaffeekanne"
+    },
+    {
+      "index": 506,
+      "englisch": "coil",
+      "deutsch": "Spule"
+    },
+    {
+      "index": 507,
+      "englisch": "combination lock",
+      "deutsch": "Kombinationsschloss"
+    },
+    {
+      "index": 508,
+      "englisch": "computer keyboard",
+      "deutsch": "Computertastatur"
+    },
+    {
+      "index": 509,
+      "englisch": "confectionery",
+      "deutsch": "Süßwaren"
+    },
+    {
+      "index": 510,
+      "englisch": "container ship",
+      "deutsch": "Containerschiff"
+    },
+    {
+      "index": 511,
+      "englisch": "convertible",
+      "deutsch": "Cabrio"
+    },
+    {
+      "index": 512,
+      "englisch": "corkscrew",
+      "deutsch": "Korkenzieher"
+    },
+    {
+      "index": 513,
+      "englisch": "cornet",
+      "deutsch": "Kornett"
+    },
+    {
+      "index": 514,
+      "englisch": "cowboy boot",
+      "deutsch": "Cowboystiefel"
+    },
+    {
+      "index": 515,
+      "englisch": "cowboy hat",
+      "deutsch": "Cowboyhut"
+    },
+    {
+      "index": 516,
+      "englisch": "cradle",
+      "deutsch": "Wiege"
+    },
+    {
+      "index": 517,
+      "englisch": "crane",
+      "deutsch": "Kran"
+    },
+    {
+      "index": 518,
+      "englisch": "crash helmet",
+      "deutsch": "Sturzhelm"
+    },
+    {
+      "index": 519,
+      "englisch": "crate",
+      "deutsch": "Kiste"
+    },
+    {
+      "index": 520,
+      "englisch": "crib",
+      "deutsch": "Krippe"
+    },
+    {
+      "index": 521,
+      "englisch": "Crock Pot",
+      "deutsch": "Topftopf"
+    },
+    {
+      "index": 522,
+      "englisch": "croquet ball",
+      "deutsch": "Krocketball"
+    },
+    {
+      "index": 523,
+      "englisch": "crutch",
+      "deutsch": "Krücke"
+    },
+    {
+      "index": 524,
+      "englisch": "cuirass",
+      "deutsch": "Kürass"
+    },
+    {
+      "index": 525,
+      "englisch": "dam",
+      "deutsch": "Damm"
+    },
+    {
+      "index": 526,
+      "englisch": "desk",
+      "deutsch": "Schreibtisch"
+    },
+    {
+      "index": 527,
+      "englisch": "desktop computer",
+      "deutsch": "Desktop-Computer"
+    },
+    {
+      "index": 528,
+      "englisch": "dial telephone",
+      "deutsch": "Telefon wählen"
+    },
+    {
+      "index": 529,
+      "englisch": "diaper",
+      "deutsch": "Windel"
+    },
+    {
+      "index": 530,
+      "englisch": "digital clock",
+      "deutsch": "Digitaluhr"
+    },
+    {
+      "index": 531,
+      "englisch": "digital watch",
+      "deutsch": "Digitaluhr"
+    },
+    {
+      "index": 532,
+      "englisch": "dining table",
+      "deutsch": "Esstisch"
+    },
+    {
+      "index": 533,
+      "englisch": "dishrag",
+      "deutsch": "abwaschen"
+    },
+    {
+      "index": 534,
+      "englisch": "dishwasher",
+      "deutsch": "Spülmaschine"
+    },
+    {
+      "index": 535,
+      "englisch": "disk brake",
+      "deutsch": "Scheibenbremse"
+    },
+    {
+      "index": 536,
+      "englisch": "dock",
+      "deutsch": "Dock"
+    },
+    {
+      "index": 537,
+      "englisch": "dogsled",
+      "deutsch": "Hundeschlitten"
+    },
+    {
+      "index": 538,
+      "englisch": "dome",
+      "deutsch": "Kuppel"
+    },
+    {
+      "index": 539,
+      "englisch": "doormat",
+      "deutsch": "Fußabtreter"
+    },
+    {
+      "index": 540,
+      "englisch": "drilling platform",
+      "deutsch": "Bohrplattform"
+    },
+    {
+      "index": 541,
+      "englisch": "drum",
+      "deutsch": "Trommel"
+    },
+    {
+      "index": 542,
+      "englisch": "drumstick",
+      "deutsch": "Trommelstock"
+    },
+    {
+      "index": 543,
+      "englisch": "dumbbell",
+      "deutsch": "Hantel"
+    },
+    {
+      "index": 544,
+      "englisch": "Dutch oven",
+      "deutsch": "Schmortopf"
+    },
+    {
+      "index": 545,
+      "englisch": "electric fan",
+      "deutsch": "elektrischer Ventilator"
+    },
+    {
+      "index": 546,
+      "englisch": "electric guitar",
+      "deutsch": "elektrische Gitarre"
+    },
+    {
+      "index": 547,
+      "englisch": "electric locomotive",
+      "deutsch": "elektrische Lokomotive"
+    },
+    {
+      "index": 548,
+      "englisch": "entertainment center",
+      "deutsch": "Unterhaltungszentrum"
+    },
+    {
+      "index": 549,
+      "englisch": "envelope",
+      "deutsch": "Umschlag"
+    },
+    {
+      "index": 550,
+      "englisch": "espresso maker",
+      "deutsch": "Espressomaschine"
+    },
+    {
+      "index": 551,
+      "englisch": "face powder",
+      "deutsch": "Gesichtspuder"
+    },
+    {
+      "index": 552,
+      "englisch": "feather boa",
+      "deutsch": "Federboa"
+    },
+    {
+      "index": 553,
+      "englisch": "file",
+      "deutsch": "Datei"
+    },
+    {
+      "index": 554,
+      "englisch": "fireboat",
+      "deutsch": "Feuerlöschboot"
+    },
+    {
+      "index": 555,
+      "englisch": "fire engine",
+      "deutsch": "Feuerwehrauto"
+    },
+    {
+      "index": 556,
+      "englisch": "fire screen",
+      "deutsch": "Feuerschutz"
+    },
+    {
+      "index": 557,
+      "englisch": "flagpole",
+      "deutsch": "Fahnenstange"
+    },
+    {
+      "index": 558,
+      "englisch": "flute",
+      "deutsch": "Flöte"
+    },
+    {
+      "index": 559,
+      "englisch": "folding chair",
+      "deutsch": "Klappstuhl"
+    },
+    {
+      "index": 560,
+      "englisch": "football helmet",
+      "deutsch": "Football-Helm"
+    },
+    {
+      "index": 561,
+      "englisch": "forklift",
+      "deutsch": "Gabelstapler"
+    },
+    {
+      "index": 562,
+      "englisch": "fountain",
+      "deutsch": "Brunnen"
+    },
+    {
+      "index": 563,
+      "englisch": "fountain pen",
+      "deutsch": "Füller"
+    },
+    {
+      "index": 564,
+      "englisch": "four-poster",
+      "deutsch": "Himmelbett"
+    },
+    {
+      "index": 565,
+      "englisch": "freight car",
+      "deutsch": "Güterwagen"
+    },
+    {
+      "index": 566,
+      "englisch": "French horn",
+      "deutsch": "Waldhorn"
+    },
+    {
+      "index": 567,
+      "englisch": "frying pan",
+      "deutsch": "Bratpfanne"
+    },
+    {
+      "index": 568,
+      "englisch": "fur coat",
+      "deutsch": "Pelzmantel"
+    },
+    {
+      "index": 569,
+      "englisch": "garbage truck",
+      "deutsch": "Müllwagen"
+    },
+    {
+      "index": 570,
+      "englisch": "gasmask",
+      "deutsch": "Gasmaske"
+    },
+    {
+      "index": 571,
+      "englisch": "gas pump",
+      "deutsch": "Zapfsäule"
+    },
+    {
+      "index": 572,
+      "englisch": "goblet",
+      "deutsch": "Kelch"
+    },
+    {
+      "index": 573,
+      "englisch": "go-kart",
+      "deutsch": "Gokart"
+    },
+    {
+      "index": 574,
+      "englisch": "golf ball",
+      "deutsch": "Golfball"
+    },
+    {
+      "index": 575,
+      "englisch": "golfcart",
+      "deutsch": "Golfwagen"
+    },
+    {
+      "index": 576,
+      "englisch": "gondola",
+      "deutsch": "Gondel"
+    },
+    {
+      "index": 577,
+      "englisch": "gong",
+      "deutsch": "Gong"
+    },
+    {
+      "index": 578,
+      "englisch": "gown",
+      "deutsch": "Kleid"
+    },
+    {
+      "index": 579,
+      "englisch": "grand piano",
+      "deutsch": "Flügel"
+    },
+    {
+      "index": 580,
+      "englisch": "greenhouse",
+      "deutsch": "Gewächshaus"
+    },
+    {
+      "index": 581,
+      "englisch": "grille",
+      "deutsch": "Gitter"
+    },
+    {
+      "index": 582,
+      "englisch": "grocery store",
+      "deutsch": "Lebensmittelgeschäft"
+    },
+    {
+      "index": 583,
+      "englisch": "guillotine",
+      "deutsch": "Guillotine"
+    },
+    {
+      "index": 584,
+      "englisch": "hair slide",
+      "deutsch": "Haarspange"
+    },
+    {
+      "index": 585,
+      "englisch": "hair spray",
+      "deutsch": "Haarspray"
+    },
+    {
+      "index": 586,
+      "englisch": "half track",
+      "deutsch": "halbes Gleis"
+    },
+    {
+      "index": 587,
+      "englisch": "hammer",
+      "deutsch": "Hammer"
+    },
+    {
+      "index": 588,
+      "englisch": "hamper",
+      "deutsch": "Korb"
+    },
+    {
+      "index": 589,
+      "englisch": "hand blower",
+      "deutsch": "Handgebläse"
+    },
+    {
+      "index": 590,
+      "englisch": "hand-held computer",
+      "deutsch": "Handheld-Computer"
+    },
+    {
+      "index": 591,
+      "englisch": "handkerchief",
+      "deutsch": "Taschentuch"
+    },
+    {
+      "index": 592,
+      "englisch": "hard disc",
+      "deutsch": "Festplatte"
+    },
+    {
+      "index": 593,
+      "englisch": "harmonica",
+      "deutsch": "Mundharmonika"
+    },
+    {
+      "index": 594,
+      "englisch": "harp",
+      "deutsch": "Harfe"
+    },
+    {
+      "index": 595,
+      "englisch": "harvester",
+      "deutsch": "Mähdrescher"
+    },
+    {
+      "index": 596,
+      "englisch": "hatchet",
+      "deutsch": "Beil"
+    },
+    {
+      "index": 597,
+      "englisch": "holster",
+      "deutsch": "Halfter"
+    },
+    {
+      "index": 598,
+      "englisch": "home theater",
+      "deutsch": "Heimkino"
+    },
+    {
+      "index": 599,
+      "englisch": "honeycomb",
+      "deutsch": "Bienenwabe"
+    },
+    {
+      "index": 600,
+      "englisch": "hook",
+      "deutsch": "Haken"
+    },
+    {
+      "index": 601,
+      "englisch": "hoopskirt",
+      "deutsch": "Reifrock"
+    },
+    {
+      "index": 602,
+      "englisch": "horizontal bar",
+      "deutsch": "Reck"
+    },
+    {
+      "index": 603,
+      "englisch": "horse cart",
+      "deutsch": "Pferdewagen"
+    },
+    {
+      "index": 604,
+      "englisch": "hourglass",
+      "deutsch": "Sanduhr"
+    },
+    {
+      "index": 605,
+      "englisch": "iPod",
+      "deutsch": "iPod"
+    },
+    {
+      "index": 606,
+      "englisch": "iron",
+      "deutsch": "Eisen"
+    },
+    {
+      "index": 607,
+      "englisch": "jack-o'-lantern",
+      "deutsch": "Kürbislaterne"
+    },
+    {
+      "index": 608,
+      "englisch": "jean",
+      "deutsch": "Jeans"
+    },
+    {
+      "index": 609,
+      "englisch": "jeep",
+      "deutsch": "Jeep"
+    },
+    {
+      "index": 610,
+      "englisch": "jersey",
+      "deutsch": "Jersey"
+    },
+    {
+      "index": 611,
+      "englisch": "jigsaw puzzle",
+      "deutsch": "Puzzle"
+    },
+    {
+      "index": 612,
+      "englisch": "jinrikisha",
+      "deutsch": "Jinrikisha"
+    },
+    {
+      "index": 613,
+      "englisch": "joystick",
+      "deutsch": "Joystick"
+    },
+    {
+      "index": 614,
+      "englisch": "kimono",
+      "deutsch": "Kimono"
+    },
+    {
+      "index": 615,
+      "englisch": "knee pad",
+      "deutsch": "Kniepolster"
+    },
+    {
+      "index": 616,
+      "englisch": "knot",
+      "deutsch": "Knoten"
+    },
+    {
+      "index": 617,
+      "englisch": "lab coat",
+      "deutsch": "Laborkittel"
+    },
+    {
+      "index": 618,
+      "englisch": "ladle",
+      "deutsch": "Schöpfkelle"
+    },
+    {
+      "index": 619,
+      "englisch": "lampshade",
+      "deutsch": "Lampenschirm"
+    },
+    {
+      "index": 620,
+      "englisch": "laptop",
+      "deutsch": "Laptop"
+    },
+    {
+      "index": 621,
+      "englisch": "lawn mower",
+      "deutsch": "Rasenmäher"
+    },
+    {
+      "index": 622,
+      "englisch": "lens cap",
+      "deutsch": "Objektivdeckel"
+    },
+    {
+      "index": 623,
+      "englisch": "letter opener",
+      "deutsch": "Brieföffner"
+    },
+    {
+      "index": 624,
+      "englisch": "library",
+      "deutsch": "Bibliothek"
+    },
+    {
+      "index": 625,
+      "englisch": "lifeboat",
+      "deutsch": "Rettungsboot"
+    },
+    {
+      "index": 626,
+      "englisch": "lighter",
+      "deutsch": "leichter"
+    },
+    {
+      "index": 627,
+      "englisch": "limousine",
+      "deutsch": "Limousine"
+    },
+    {
+      "index": 628,
+      "englisch": "liner",
+      "deutsch": "Liner"
+    },
+    {
+      "index": 629,
+      "englisch": "lipstick",
+      "deutsch": "Lippenstift"
+    },
+    {
+      "index": 630,
+      "englisch": "Loafer",
+      "deutsch": "Slipper"
+    },
+    {
+      "index": 631,
+      "englisch": "lotion",
+      "deutsch": "Lotion"
+    },
+    {
+      "index": 632,
+      "englisch": "loudspeaker",
+      "deutsch": "Lautsprecher"
+    },
+    {
+      "index": 633,
+      "englisch": "loupe",
+      "deutsch": "Lupe"
+    },
+    {
+      "index": 634,
+      "englisch": "lumbermill",
+      "deutsch": "Holzmühle"
+    },
+    {
+      "index": 635,
+      "englisch": "magnetic compass",
+      "deutsch": "magnetischer Kompass"
+    },
+    {
+      "index": 636,
+      "englisch": "mailbag",
+      "deutsch": "Postsack"
+    },
+    {
+      "index": 637,
+      "englisch": "mailbox",
+      "deutsch": "Briefkasten"
+    },
+    {
+      "index": 638,
+      "englisch": "maillot",
+      "deutsch": "Maillot"
+    },
+    {
+      "index": 639,
+      "englisch": "maillot",
+      "deutsch": "Maillot"
+    },
+    {
+      "index": 640,
+      "englisch": "manhole cover",
+      "deutsch": "Schachtabdeckung"
+    },
+    {
+      "index": 641,
+      "englisch": "maraca",
+      "deutsch": "Rassel"
+    },
+    {
+      "index": 642,
+      "englisch": "marimba",
+      "deutsch": "Marimba"
+    },
+    {
+      "index": 643,
+      "englisch": "mask",
+      "deutsch": "Maske"
+    },
+    {
+      "index": 644,
+      "englisch": "matchstick",
+      "deutsch": "Streichholz"
+    },
+    {
+      "index": 645,
+      "englisch": "maypole",
+      "deutsch": "Maibaum"
+    },
+    {
+      "index": 646,
+      "englisch": "maze",
+      "deutsch": "Labyrinth"
+    },
+    {
+      "index": 647,
+      "englisch": "measuring cup",
+      "deutsch": "Messbecher"
+    },
+    {
+      "index": 648,
+      "englisch": "medicine chest",
+      "deutsch": "Hausapotheke"
+    },
+    {
+      "index": 649,
+      "englisch": "megalith",
+      "deutsch": "Megalith"
+    },
+    {
+      "index": 650,
+      "englisch": "microphone",
+      "deutsch": "Mikrofon"
+    },
+    {
+      "index": 651,
+      "englisch": "microwave",
+      "deutsch": "Mikrowelle"
+    },
+    {
+      "index": 652,
+      "englisch": "military uniform",
+      "deutsch": "Militäruniform"
+    },
+    {
+      "index": 653,
+      "englisch": "milk can",
+      "deutsch": "Milchkanne"
+    },
+    {
+      "index": 654,
+      "englisch": "minibus",
+      "deutsch": "Kleinbus"
+    },
+    {
+      "index": 655,
+      "englisch": "miniskirt",
+      "deutsch": "Minirock"
+    },
+    {
+      "index": 656,
+      "englisch": "minivan",
+      "deutsch": "Minivan"
+    },
+    {
+      "index": 657,
+      "englisch": "missile",
+      "deutsch": "Rakete"
+    },
+    {
+      "index": 658,
+      "englisch": "mitten",
+      "deutsch": "Fäustling"
+    },
+    {
+      "index": 659,
+      "englisch": "mixing bowl",
+      "deutsch": "Rührschüssel"
+    },
+    {
+      "index": 660,
+      "englisch": "mobile home",
+      "deutsch": "Mobilheim"
+    },
+    {
+      "index": 661,
+      "englisch": "Model T",
+      "deutsch": "Modell T"
+    },
+    {
+      "index": 662,
+      "englisch": "modem",
+      "deutsch": "Modem"
+    },
+    {
+      "index": 663,
+      "englisch": "monastery",
+      "deutsch": "Kloster"
+    },
+    {
+      "index": 664,
+      "englisch": "monitor",
+      "deutsch": "Monitor"
+    },
+    {
+      "index": 665,
+      "englisch": "moped",
+      "deutsch": "Moped"
+    },
+    {
+      "index": 666,
+      "englisch": "mortar",
+      "deutsch": "Mörtel"
+    },
+    {
+      "index": 667,
+      "englisch": "mortarboard",
+      "deutsch": "Doktorhut"
+    },
+    {
+      "index": 668,
+      "englisch": "mosque",
+      "deutsch": "Moschee"
+    },
+    {
+      "index": 669,
+      "englisch": "mosquito net",
+      "deutsch": "Moskitonetz"
+    },
+    {
+      "index": 670,
+      "englisch": "motor scooter",
+      "deutsch": "Motorroller"
+    },
+    {
+      "index": 671,
+      "englisch": "mountain bike",
+      "deutsch": "Mountainbike"
+    },
+    {
+      "index": 672,
+      "englisch": "mountain tent",
+      "deutsch": "Bergzelt"
+    },
+    {
+      "index": 673,
+      "englisch": "mouse",
+      "deutsch": "Maus"
+    },
+    {
+      "index": 674,
+      "englisch": "mousetrap",
+      "deutsch": "Mausefalle"
+    },
+    {
+      "index": 675,
+      "englisch": "moving van",
+      "deutsch": "Umzugswagen"
+    },
+    {
+      "index": 676,
+      "englisch": "muzzle",
+      "deutsch": "Schnauze"
+    },
+    {
+      "index": 677,
+      "englisch": "nail",
+      "deutsch": "Nagel"
+    },
+    {
+      "index": 678,
+      "englisch": "neck brace",
+      "deutsch": "Halskrause"
+    },
+    {
+      "index": 679,
+      "englisch": "necklace",
+      "deutsch": "Halskette"
+    },
+    {
+      "index": 680,
+      "englisch": "nipple",
+      "deutsch": "Nippel"
+    },
+    {
+      "index": 681,
+      "englisch": "notebook",
+      "deutsch": "Notizbuch"
+    },
+    {
+      "index": 682,
+      "englisch": "obelisk",
+      "deutsch": "Obelisk"
+    },
+    {
+      "index": 683,
+      "englisch": "oboe",
+      "deutsch": "Oboe"
+    },
+    {
+      "index": 684,
+      "englisch": "ocarina",
+      "deutsch": "Okarina"
+    },
+    {
+      "index": 685,
+      "englisch": "odometer",
+      "deutsch": "Kilometerzähler"
+    },
+    {
+      "index": 686,
+      "englisch": "oil filter",
+      "deutsch": "Ölfilter"
+    },
+    {
+      "index": 687,
+      "englisch": "organ",
+      "deutsch": "Orgel"
+    },
+    {
+      "index": 688,
+      "englisch": "oscilloscope",
+      "deutsch": "Oszilloskop"
+    },
+    {
+      "index": 689,
+      "englisch": "overskirt",
+      "deutsch": "Überrock"
+    },
+    {
+      "index": 690,
+      "englisch": "oxcart",
+      "deutsch": "Ochsenkarren"
+    },
+    {
+      "index": 691,
+      "englisch": "oxygen mask",
+      "deutsch": "Sauerstoffmaske"
+    },
+    {
+      "index": 692,
+      "englisch": "packet",
+      "deutsch": "Paket"
+    },
+    {
+      "index": 693,
+      "englisch": "paddle",
+      "deutsch": "paddeln"
+    },
+    {
+      "index": 694,
+      "englisch": "paddlewheel",
+      "deutsch": "Schaufelrad"
+    },
+    {
+      "index": 695,
+      "englisch": "padlock",
+      "deutsch": "Vorhängeschloss"
+    },
+    {
+      "index": 696,
+      "englisch": "paintbrush",
+      "deutsch": "Pinsel"
+    },
+    {
+      "index": 697,
+      "englisch": "pajama",
+      "deutsch": "Pyjama"
+    },
+    {
+      "index": 698,
+      "englisch": "palace",
+      "deutsch": "Palast"
+    },
+    {
+      "index": 699,
+      "englisch": "panpipe",
+      "deutsch": "Panflöte"
+    },
+    {
+      "index": 700,
+      "englisch": "paper towel",
+      "deutsch": "Papiertuch"
+    },
+    {
+      "index": 701,
+      "englisch": "parachute",
+      "deutsch": "Fallschirm"
+    },
+    {
+      "index": 702,
+      "englisch": "parallel bars",
+      "deutsch": "Barren"
+    },
+    {
+      "index": 703,
+      "englisch": "park bench",
+      "deutsch": "Parkbank"
+    },
+    {
+      "index": 704,
+      "englisch": "parking meter",
+      "deutsch": "Parkuhr"
+    },
+    {
+      "index": 705,
+      "englisch": "passenger car",
+      "deutsch": "Personenkraftwagen"
+    },
+    {
+      "index": 706,
+      "englisch": "patio",
+      "deutsch": "Terrasse"
+    },
+    {
+      "index": 707,
+      "englisch": "pay-phone",
+      "deutsch": "Münztelefon"
+    },
+    {
+      "index": 708,
+      "englisch": "pedestal",
+      "deutsch": "Sockel"
+    },
+    {
+      "index": 709,
+      "englisch": "pencil box",
+      "deutsch": "Bleistiftbox"
+    },
+    {
+      "index": 710,
+      "englisch": "pencil sharpener",
+      "deutsch": "Bleistiftspitzer"
+    },
+    {
+      "index": 711,
+      "englisch": "perfume",
+      "deutsch": "Parfüm"
+    },
+    {
+      "index": 712,
+      "englisch": "Petri dish",
+      "deutsch": "Petrischale"
+    },
+    {
+      "index": 713,
+      "englisch": "photocopier",
+      "deutsch": "Kopiergerät"
+    },
+    {
+      "index": 714,
+      "englisch": "pick",
+      "deutsch": "wählen"
+    },
+    {
+      "index": 715,
+      "englisch": "pickelhaube",
+      "deutsch": "pickelhaube"
+    },
+    {
+      "index": 716,
+      "englisch": "picket fence",
+      "deutsch": "Lattenzaun"
+    },
+    {
+      "index": 717,
+      "englisch": "pickup",
+      "deutsch": "abholen"
+    },
+    {
+      "index": 718,
+      "englisch": "pier",
+      "deutsch": "Pier"
+    },
+    {
+      "index": 719,
+      "englisch": "piggy bank",
+      "deutsch": "Sparschwein"
+    },
+    {
+      "index": 720,
+      "englisch": "pill bottle",
+      "deutsch": "Pillenflasche"
+    },
+    {
+      "index": 721,
+      "englisch": "pillow",
+      "deutsch": "Kissen"
+    },
+    {
+      "index": 722,
+      "englisch": "ping-pong ball",
+      "deutsch": "Tischtennisball"
+    },
+    {
+      "index": 723,
+      "englisch": "pinwheel",
+      "deutsch": "Windrad"
+    },
+    {
+      "index": 724,
+      "englisch": "pirate",
+      "deutsch": "Pirat"
+    },
+    {
+      "index": 725,
+      "englisch": "pitcher",
+      "deutsch": "Krug"
+    },
+    {
+      "index": 726,
+      "englisch": "plane",
+      "deutsch": "Flugzeug"
+    },
+    {
+      "index": 727,
+      "englisch": "planetarium",
+      "deutsch": "Planetarium"
+    },
+    {
+      "index": 728,
+      "englisch": "plastic bag",
+      "deutsch": "Plastiktüte"
+    },
+    {
+      "index": 729,
+      "englisch": "plate rack",
+      "deutsch": "Tellerständer"
+    },
+    {
+      "index": 730,
+      "englisch": "plow",
+      "deutsch": "Pflug"
+    },
+    {
+      "index": 731,
+      "englisch": "plunger",
+      "deutsch": "Kolben"
+    },
+    {
+      "index": 732,
+      "englisch": "Polaroid camera",
+      "deutsch": "Polaroidkamera"
+    },
+    {
+      "index": 733,
+      "englisch": "pole",
+      "deutsch": "Pole"
+    },
+    {
+      "index": 734,
+      "englisch": "police van",
+      "deutsch": "Polizeiwagen"
+    },
+    {
+      "index": 735,
+      "englisch": "poncho",
+      "deutsch": "Poncho"
+    },
+    {
+      "index": 736,
+      "englisch": "pool table",
+      "deutsch": "Billardtisch"
+    },
+    {
+      "index": 737,
+      "englisch": "pop bottle",
+      "deutsch": "Pop-Flasche"
+    },
+    {
+      "index": 738,
+      "englisch": "pot",
+      "deutsch": "Pot"
+    },
+    {
+      "index": 739,
+      "englisch": "potter's wheel",
+      "deutsch": "Töpferscheibe"
+    },
+    {
+      "index": 740,
+      "englisch": "power drill",
+      "deutsch": "Bohrmaschine"
+    },
+    {
+      "index": 741,
+      "englisch": "prayer rug",
+      "deutsch": "Gebetsteppich"
+    },
+    {
+      "index": 742,
+      "englisch": "printer",
+      "deutsch": "Drucker"
+    },
+    {
+      "index": 743,
+      "englisch": "prison",
+      "deutsch": "Gefängnis"
+    },
+    {
+      "index": 744,
+      "englisch": "projectile",
+      "deutsch": "Projektil"
+    },
+    {
+      "index": 745,
+      "englisch": "projector",
+      "deutsch": "Projektor"
+    },
+    {
+      "index": 746,
+      "englisch": "puck",
+      "deutsch": "Puck"
+    },
+    {
+      "index": 747,
+      "englisch": "punching bag",
+      "deutsch": "Boxsack"
+    },
+    {
+      "index": 748,
+      "englisch": "purse",
+      "deutsch": "Geldbeutel"
+    },
+    {
+      "index": 749,
+      "englisch": "quill",
+      "deutsch": "Feder"
+    },
+    {
+      "index": 750,
+      "englisch": "quilt",
+      "deutsch": "Decke"
+    },
+    {
+      "index": 751,
+      "englisch": "racer",
+      "deutsch": "Rennfahrer"
+    },
+    {
+      "index": 752,
+      "englisch": "racket",
+      "deutsch": "Schläger"
+    },
+    {
+      "index": 753,
+      "englisch": "radiator",
+      "deutsch": "Kühler"
+    },
+    {
+      "index": 754,
+      "englisch": "radio",
+      "deutsch": "Radio"
+    },
+    {
+      "index": 755,
+      "englisch": "radio telescope",
+      "deutsch": "Radioteleskop"
+    },
+    {
+      "index": 756,
+      "englisch": "rain barrel",
+      "deutsch": "Regentonne"
+    },
+    {
+      "index": 757,
+      "englisch": "recreational vehicle",
+      "deutsch": "Freizeitfahrzeug"
+    },
+    {
+      "index": 758,
+      "englisch": "reel",
+      "deutsch": "Spule"
+    },
+    {
+      "index": 759,
+      "englisch": "reflex camera",
+      "deutsch": "Spiegelreflexkamera"
+    },
+    {
+      "index": 760,
+      "englisch": "refrigerator",
+      "deutsch": "Kühlschrank"
+    },
+    {
+      "index": 761,
+      "englisch": "remote control",
+      "deutsch": "Fernbedienung"
+    },
+    {
+      "index": 762,
+      "englisch": "restaurant",
+      "deutsch": "Restaurant"
+    },
+    {
+      "index": 763,
+      "englisch": "revolver",
+      "deutsch": "Revolver"
+    },
+    {
+      "index": 764,
+      "englisch": "rifle",
+      "deutsch": "Gewehr"
+    },
+    {
+      "index": 765,
+      "englisch": "rocking chair",
+      "deutsch": "Schaukelstuhl"
+    },
+    {
+      "index": 766,
+      "englisch": "rotisserie",
+      "deutsch": "Rotisserie"
+    },
+    {
+      "index": 767,
+      "englisch": "rubber eraser",
+      "deutsch": "Gummi-Radierer"
+    },
+    {
+      "index": 768,
+      "englisch": "rugby ball",
+      "deutsch": "Rugbyball"
+    },
+    {
+      "index": 769,
+      "englisch": "rule",
+      "deutsch": "Regel"
+    },
+    {
+      "index": 770,
+      "englisch": "running shoe",
+      "deutsch": "Laufschuh"
+    },
+    {
+      "index": 771,
+      "englisch": "safe",
+      "deutsch": "sicher"
+    },
+    {
+      "index": 772,
+      "englisch": "safety pin",
+      "deutsch": "Sicherheitsnadel"
+    },
+    {
+      "index": 773,
+      "englisch": "saltshaker",
+      "deutsch": "Salzstreuer"
+    },
+    {
+      "index": 774,
+      "englisch": "sandal",
+      "deutsch": "Sandale"
+    },
+    {
+      "index": 775,
+      "englisch": "sarong",
+      "deutsch": "Sarong"
+    },
+    {
+      "index": 776,
+      "englisch": "sax",
+      "deutsch": "Saxophon"
+    },
+    {
+      "index": 777,
+      "englisch": "scabbard",
+      "deutsch": "Scheide"
+    },
+    {
+      "index": 778,
+      "englisch": "scale",
+      "deutsch": "Skala"
+    },
+    {
+      "index": 779,
+      "englisch": "school bus",
+      "deutsch": "Schulbus"
+    },
+    {
+      "index": 780,
+      "englisch": "schooner",
+      "deutsch": "Schoner"
+    },
+    {
+      "index": 781,
+      "englisch": "scoreboard",
+      "deutsch": "Anzeigetafel"
+    },
+    {
+      "index": 782,
+      "englisch": "screen",
+      "deutsch": "Bildschirm"
+    },
+    {
+      "index": 783,
+      "englisch": "screw",
+      "deutsch": "schrauben"
+    },
+    {
+      "index": 784,
+      "englisch": "screwdriver",
+      "deutsch": "Schraubendreher"
+    },
+    {
+      "index": 785,
+      "englisch": "seat belt",
+      "deutsch": "Sicherheitsgurt"
+    },
+    {
+      "index": 786,
+      "englisch": "sewing machine",
+      "deutsch": "Nähmaschine"
+    },
+    {
+      "index": 787,
+      "englisch": "shield",
+      "deutsch": "Schild"
+    },
+    {
+      "index": 788,
+      "englisch": "shoe shop",
+      "deutsch": "Schuhgeschäft"
+    },
+    {
+      "index": 789,
+      "englisch": "shoji",
+      "deutsch": "Shoji"
+    },
+    {
+      "index": 790,
+      "englisch": "shopping basket",
+      "deutsch": "Einkaufskorb"
+    },
+    {
+      "index": 791,
+      "englisch": "shopping cart",
+      "deutsch": "Warenkorb"
+    },
+    {
+      "index": 792,
+      "englisch": "shovel",
+      "deutsch": "Schaufel"
+    },
+    {
+      "index": 793,
+      "englisch": "shower cap",
+      "deutsch": "Duschhaube"
+    },
+    {
+      "index": 794,
+      "englisch": "shower curtain",
+      "deutsch": "Duschvorhang"
+    },
+    {
+      "index": 795,
+      "englisch": "ski",
+      "deutsch": "Ski"
+    },
+    {
+      "index": 796,
+      "englisch": "ski mask",
+      "deutsch": "Skimaske"
+    },
+    {
+      "index": 797,
+      "englisch": "sleeping bag",
+      "deutsch": "Schlafsack"
+    },
+    {
+      "index": 798,
+      "englisch": "slide rule",
+      "deutsch": "Rechenschieber"
+    },
+    {
+      "index": 799,
+      "englisch": "sliding door",
+      "deutsch": "Schiebetür"
+    },
+    {
+      "index": 800,
+      "englisch": "slot",
+      "deutsch": "Slot"
+    },
+    {
+      "index": 801,
+      "englisch": "snorkel",
+      "deutsch": "Schnorchel"
+    },
+    {
+      "index": 802,
+      "englisch": "snowmobile",
+      "deutsch": "Schneemobil"
+    },
+    {
+      "index": 803,
+      "englisch": "snowplow",
+      "deutsch": "Schneepflug"
+    },
+    {
+      "index": 804,
+      "englisch": "soap dispenser",
+      "deutsch": "Seifenspender"
+    },
+    {
+      "index": 805,
+      "englisch": "soccer ball",
+      "deutsch": "Fußball"
+    },
+    {
+      "index": 806,
+      "englisch": "sock",
+      "deutsch": "Socke"
+    },
+    {
+      "index": 807,
+      "englisch": "solar dish",
+      "deutsch": "Solarschüssel"
+    },
+    {
+      "index": 808,
+      "englisch": "sombrero",
+      "deutsch": "Sombrero"
+    },
+    {
+      "index": 809,
+      "englisch": "soup bowl",
+      "deutsch": "Suppenschüssel"
+    },
+    {
+      "index": 810,
+      "englisch": "space bar",
+      "deutsch": "Leertaste"
+    },
+    {
+      "index": 811,
+      "englisch": "space heater",
+      "deutsch": "Raumheizkörper"
+    },
+    {
+      "index": 812,
+      "englisch": "space shuttle",
+      "deutsch": "Raumfähre"
+    },
+    {
+      "index": 813,
+      "englisch": "spatula",
+      "deutsch": "Spatel"
+    },
+    {
+      "index": 814,
+      "englisch": "speedboat",
+      "deutsch": "Schnellboot"
+    },
+    {
+      "index": 815,
+      "englisch": "spider web",
+      "deutsch": "Spinnennetz"
+    },
+    {
+      "index": 816,
+      "englisch": "spindle",
+      "deutsch": "Spindel"
+    },
+    {
+      "index": 817,
+      "englisch": "sports car",
+      "deutsch": "Sportwagen"
+    },
+    {
+      "index": 818,
+      "englisch": "spotlight",
+      "deutsch": "Scheinwerfer"
+    },
+    {
+      "index": 819,
+      "englisch": "stage",
+      "deutsch": "Bühne"
+    },
+    {
+      "index": 820,
+      "englisch": "steam locomotive",
+      "deutsch": "Dampflokomotive"
+    },
+    {
+      "index": 821,
+      "englisch": "steel arch bridge",
+      "deutsch": "Stahlbogenbrücke"
+    },
+    {
+      "index": 822,
+      "englisch": "steel drum",
+      "deutsch": "Stahltrommel"
+    },
+    {
+      "index": 823,
+      "englisch": "stethoscope",
+      "deutsch": "Stethoskop"
+    },
+    {
+      "index": 824,
+      "englisch": "stole",
+      "deutsch": "Stola"
+    },
+    {
+      "index": 825,
+      "englisch": "stone wall",
+      "deutsch": "Steinmauer"
+    },
+    {
+      "index": 826,
+      "englisch": "stopwatch",
+      "deutsch": "Stoppuhr"
+    },
+    {
+      "index": 827,
+      "englisch": "stove",
+      "deutsch": "Herd"
+    },
+    {
+      "index": 828,
+      "englisch": "strainer",
+      "deutsch": "Sieb"
+    },
+    {
+      "index": 829,
+      "englisch": "streetcar",
+      "deutsch": "Straßenbahn"
+    },
+    {
+      "index": 830,
+      "englisch": "stretcher",
+      "deutsch": "Bahre"
+    },
+    {
+      "index": 831,
+      "englisch": "studio couch",
+      "deutsch": "Studiocouch"
+    },
+    {
+      "index": 832,
+      "englisch": "stupa",
+      "deutsch": "Stupa"
+    },
+    {
+      "index": 833,
+      "englisch": "submarine",
+      "deutsch": "U-Boot"
+    },
+    {
+      "index": 834,
+      "englisch": "suit",
+      "deutsch": "Anzug"
+    },
+    {
+      "index": 835,
+      "englisch": "sundial",
+      "deutsch": "Sonnenuhr"
+    },
+    {
+      "index": 836,
+      "englisch": "sunglass",
+      "deutsch": "Sonnenbrille"
+    },
+    {
+      "index": 837,
+      "englisch": "sunglasses",
+      "deutsch": "Sonnenbrille"
+    },
+    {
+      "index": 838,
+      "englisch": "sunscreen",
+      "deutsch": "Sonnenschutz"
+    },
+    {
+      "index": 839,
+      "englisch": "suspension bridge",
+      "deutsch": "Hängebrücke"
+    },
+    {
+      "index": 840,
+      "englisch": "swab",
+      "deutsch": "Tupfer"
+    },
+    {
+      "index": 841,
+      "englisch": "sweatshirt",
+      "deutsch": "Sweatshirt"
+    },
+    {
+      "index": 842,
+      "englisch": "swimming trunks",
+      "deutsch": "Badehose"
+    },
+    {
+      "index": 843,
+      "englisch": "swing",
+      "deutsch": "Swing"
+    },
+    {
+      "index": 844,
+      "englisch": "switch",
+      "deutsch": "schalten"
+    },
+    {
+      "index": 845,
+      "englisch": "syringe",
+      "deutsch": "Spritze"
+    },
+    {
+      "index": 846,
+      "englisch": "table lamp",
+      "deutsch": "Tischlampe"
+    },
+    {
+      "index": 847,
+      "englisch": "tank",
+      "deutsch": "Tank"
+    },
+    {
+      "index": 848,
+      "englisch": "tape player",
+      "deutsch": "Kassettenspieler"
+    },
+    {
+      "index": 849,
+      "englisch": "teapot",
+      "deutsch": "Teekanne"
+    },
+    {
+      "index": 850,
+      "englisch": "teddy",
+      "deutsch": "Teddy"
+    },
+    {
+      "index": 851,
+      "englisch": "television",
+      "deutsch": "Fernsehen"
+    },
+    {
+      "index": 852,
+      "englisch": "tennis ball",
+      "deutsch": "Tennisball"
+    },
+    {
+      "index": 853,
+      "englisch": "thatch",
+      "deutsch": "Stroh"
+    },
+    {
+      "index": 854,
+      "englisch": "theater curtain",
+      "deutsch": "Theatervorhang"
+    },
+    {
+      "index": 855,
+      "englisch": "thimble",
+      "deutsch": "Fingerhut"
+    },
+    {
+      "index": 856,
+      "englisch": "thresher",
+      "deutsch": "Drescher"
+    },
+    {
+      "index": 857,
+      "englisch": "throne",
+      "deutsch": "Thron"
+    },
+    {
+      "index": 858,
+      "englisch": "tile roof",
+      "deutsch": "Ziegeldach"
+    },
+    {
+      "index": 859,
+      "englisch": "toaster",
+      "deutsch": "Toaster"
+    },
+    {
+      "index": 860,
+      "englisch": "tobacco shop",
+      "deutsch": "Tabakladen"
+    },
+    {
+      "index": 861,
+      "englisch": "toilet seat",
+      "deutsch": "Toilettensitz"
+    },
+    {
+      "index": 862,
+      "englisch": "torch",
+      "deutsch": "Fackel"
+    },
+    {
+      "index": 863,
+      "englisch": "totem pole",
+      "deutsch": "Totempfahl"
+    },
+    {
+      "index": 864,
+      "englisch": "tow truck",
+      "deutsch": "Abschleppwagen"
+    },
+    {
+      "index": 865,
+      "englisch": "toyshop",
+      "deutsch": "Spielzeugladen"
+    },
+    {
+      "index": 866,
+      "englisch": "tractor",
+      "deutsch": "Traktor"
+    },
+    {
+      "index": 867,
+      "englisch": "trailer truck",
+      "deutsch": "Anhänger-LKW"
+    },
+    {
+      "index": 868,
+      "englisch": "tray",
+      "deutsch": "Tablett"
+    },
+    {
+      "index": 869,
+      "englisch": "trench coat",
+      "deutsch": "Trenchcoat"
+    },
+    {
+      "index": 870,
+      "englisch": "tricycle",
+      "deutsch": "Dreirad"
+    },
+    {
+      "index": 871,
+      "englisch": "trimaran",
+      "deutsch": "Trimaran"
+    },
+    {
+      "index": 872,
+      "englisch": "tripod",
+      "deutsch": "Stativ"
+    },
+    {
+      "index": 873,
+      "englisch": "triumphal arch",
+      "deutsch": "Triumphbogen"
+    },
+    {
+      "index": 874,
+      "englisch": "trolleybus",
+      "deutsch": "Obus"
+    },
+    {
+      "index": 875,
+      "englisch": "trombone",
+      "deutsch": "Posaune"
+    },
+    {
+      "index": 876,
+      "englisch": "tub",
+      "deutsch": "Wanne"
+    },
+    {
+      "index": 877,
+      "englisch": "turnstile",
+      "deutsch": "Drehkreuz"
+    },
+    {
+      "index": 878,
+      "englisch": "typewriter keyboard",
+      "deutsch": "Schreibmaschinentastatur"
+    },
+    {
+      "index": 879,
+      "englisch": "umbrella",
+      "deutsch": "Regenschirm"
+    },
+    {
+      "index": 880,
+      "englisch": "unicycle",
+      "deutsch": "Einrad"
+    },
+    {
+      "index": 881,
+      "englisch": "upright",
+      "deutsch": "aufrecht"
+    },
+    {
+      "index": 882,
+      "englisch": "vacuum",
+      "deutsch": "Vakuum"
+    },
+    {
+      "index": 883,
+      "englisch": "vase",
+      "deutsch": "Vase"
+    },
+    {
+      "index": 884,
+      "englisch": "vault",
+      "deutsch": "Gewölbe"
+    },
+    {
+      "index": 885,
+      "englisch": "velvet",
+      "deutsch": "Samt"
+    },
+    {
+      "index": 886,
+      "englisch": "vending machine",
+      "deutsch": "Automat"
+    },
+    {
+      "index": 887,
+      "englisch": "vestment",
+      "deutsch": "Gewand"
+    },
+    {
+      "index": 888,
+      "englisch": "viaduct",
+      "deutsch": "Viadukt"
+    },
+    {
+      "index": 889,
+      "englisch": "violin",
+      "deutsch": "Violine"
+    },
+    {
+      "index": 890,
+      "englisch": "volleyball",
+      "deutsch": "Volleyball"
+    },
+    {
+      "index": 891,
+      "englisch": "waffle iron",
+      "deutsch": "Waffeleisen"
+    },
+    {
+      "index": 892,
+      "englisch": "wall clock",
+      "deutsch": "Wanduhr"
+    },
+    {
+      "index": 893,
+      "englisch": "wallet",
+      "deutsch": "Geldbörse"
+    },
+    {
+      "index": 894,
+      "englisch": "wardrobe",
+      "deutsch": "Kleiderschrank"
+    },
+    {
+      "index": 895,
+      "englisch": "warplane",
+      "deutsch": "Kampfflugzeug"
+    },
+    {
+      "index": 896,
+      "englisch": "washbasin",
+      "deutsch": "Waschbecken"
+    },
+    {
+      "index": 897,
+      "englisch": "washer",
+      "deutsch": "Waschmaschine"
+    },
+    {
+      "index": 898,
+      "englisch": "water bottle",
+      "deutsch": "Wasserflasche"
+    },
+    {
+      "index": 899,
+      "englisch": "water jug",
+      "deutsch": "Wasserkrug"
+    },
+    {
+      "index": 900,
+      "englisch": "water tower",
+      "deutsch": "Wasserturm"
+    },
+    {
+      "index": 901,
+      "englisch": "whiskey jug",
+      "deutsch": "Whiskykrug"
+    },
+    {
+      "index": 902,
+      "englisch": "whistle",
+      "deutsch": "Pfeife"
+    },
+    {
+      "index": 903,
+      "englisch": "wig",
+      "deutsch": "Perücke"
+    },
+    {
+      "index": 904,
+      "englisch": "window screen",
+      "deutsch": "Fenstergitter"
+    },
+    {
+      "index": 905,
+      "englisch": "window shade",
+      "deutsch": "Fensterrollo"
+    },
+    {
+      "index": 906,
+      "englisch": "Windsor tie",
+      "deutsch": "Windsor-Krawatte"
+    },
+    {
+      "index": 907,
+      "englisch": "wine bottle",
+      "deutsch": "Weinflasche"
+    },
+    {
+      "index": 908,
+      "englisch": "wing",
+      "deutsch": "Flügel"
+    },
+    {
+      "index": 909,
+      "englisch": "wok",
+      "deutsch": "wok"
+    },
+    {
+      "index": 910,
+      "englisch": "wooden spoon",
+      "deutsch": "Holzlöffel"
+    },
+    {
+      "index": 911,
+      "englisch": "wool",
+      "deutsch": "Wolle"
+    },
+    {
+      "index": 912,
+      "englisch": "worm fence",
+      "deutsch": "Wurmzaun"
+    },
+    {
+      "index": 913,
+      "englisch": "wreck",
+      "deutsch": "Wrack"
+    },
+    {
+      "index": 914,
+      "englisch": "yawl",
+      "deutsch": "Jolle"
+    },
+    {
+      "index": 915,
+      "englisch": "yurt",
+      "deutsch": "Jurte"
+    },
+    {
+      "index": 916,
+      "englisch": "web site",
+      "deutsch": "Website"
+    },
+    {
+      "index": 917,
+      "englisch": "comic book",
+      "deutsch": "Comic-Buch"
+    },
+    {
+      "index": 918,
+      "englisch": "crossword puzzle",
+      "deutsch": "Kreuzworträtsel"
+    },
+    {
+      "index": 919,
+      "englisch": "street sign",
+      "deutsch": "Straßenschild"
+    },
+    {
+      "index": 920,
+      "englisch": "traffic light",
+      "deutsch": "Ampel"
+    },
+    {
+      "index": 921,
+      "englisch": "book jacket",
+      "deutsch": "Buchumschlag"
+    },
+    {
+      "index": 922,
+      "englisch": "menu",
+      "deutsch": "Speisekarte"
+    },
+    {
+      "index": 923,
+      "englisch": "plate",
+      "deutsch": "Platte"
+    },
+    {
+      "index": 924,
+      "englisch": "guacamole",
+      "deutsch": "Guacamole"
+    },
+    {
+      "index": 925,
+      "englisch": "consomme",
+      "deutsch": "consomme"
+    },
+    {
+      "index": 926,
+      "englisch": "hot pot",
+      "deutsch": "heißer Topf"
+    },
+    {
+      "index": 927,
+      "englisch": "trifle",
+      "deutsch": "Kleinigkeit"
+    },
+    {
+      "index": 928,
+      "englisch": "ice cream",
+      "deutsch": "Eiscreme"
+    },
+    {
+      "index": 929,
+      "englisch": "ice lolly",
+      "deutsch": "Eis am Stiel"
+    },
+    {
+      "index": 930,
+      "englisch": "French loaf",
+      "deutsch": "Französisches Brot"
+    },
+    {
+      "index": 931,
+      "englisch": "bagel",
+      "deutsch": "Bagel"
+    },
+    {
+      "index": 932,
+      "englisch": "pretzel",
+      "deutsch": "Brezel"
+    },
+    {
+      "index": 933,
+      "englisch": "cheeseburger",
+      "deutsch": "Cheeseburger"
+    },
+    {
+      "index": 934,
+      "englisch": "hotdog",
+      "deutsch": "Hotdog"
+    },
+    {
+      "index": 935,
+      "englisch": "mashed potato",
+      "deutsch": "Kartoffelpüree"
+    },
+    {
+      "index": 936,
+      "englisch": "head cabbage",
+      "deutsch": "Kopfkohl"
+    },
+    {
+      "index": 937,
+      "englisch": "broccoli",
+      "deutsch": "Brokkoli"
+    },
+    {
+      "index": 938,
+      "englisch": "cauliflower",
+      "deutsch": "Blumenkohl"
+    },
+    {
+      "index": 939,
+      "englisch": "zucchini",
+      "deutsch": "Zucchini"
+    },
+    {
+      "index": 940,
+      "englisch": "spaghetti squash",
+      "deutsch": "Spaghettikürbis"
+    },
+    {
+      "index": 941,
+      "englisch": "acorn squash",
+      "deutsch": "Eichelkürbis"
+    },
+    {
+      "index": 942,
+      "englisch": "butternut squash",
+      "deutsch": "Butternusskürbis"
+    },
+    {
+      "index": 943,
+      "englisch": "cucumber",
+      "deutsch": "Gurke"
+    },
+    {
+      "index": 944,
+      "englisch": "artichoke",
+      "deutsch": "Artischocke"
+    },
+    {
+      "index": 945,
+      "englisch": "bell pepper",
+      "deutsch": "Paprika"
+    },
+    {
+      "index": 946,
+      "englisch": "cardoon",
+      "deutsch": "Kardon"
+    },
+    {
+      "index": 947,
+      "englisch": "mushroom",
+      "deutsch": "Pilz"
+    },
+    {
+      "index": 948,
+      "englisch": "Granny Smith",
+      "deutsch": "Oma Smith"
+    },
+    {
+      "index": 949,
+      "englisch": "strawberry",
+      "deutsch": "Erdbeere"
+    },
+    {
+      "index": 950,
+      "englisch": "orange",
+      "deutsch": "orange"
+    },
+    {
+      "index": 951,
+      "englisch": "lemon",
+      "deutsch": "Zitrone"
+    },
+    {
+      "index": 952,
+      "englisch": "fig",
+      "deutsch": "Feige"
+    },
+    {
+      "index": 953,
+      "englisch": "pineapple",
+      "deutsch": "Ananas"
+    },
+    {
+      "index": 954,
+      "englisch": "banana",
+      "deutsch": "Banane"
+    },
+    {
+      "index": 955,
+      "englisch": "jackfruit",
+      "deutsch": "Jackfrucht"
+    },
+    {
+      "index": 956,
+      "englisch": "custard apple",
+      "deutsch": "Puddingapfel"
+    },
+    {
+      "index": 957,
+      "englisch": "pomegranate",
+      "deutsch": "Granatapfel"
+    },
+    {
+      "index": 958,
+      "englisch": "hay",
+      "deutsch": "Heu"
+    },
+    {
+      "index": 959,
+      "englisch": "carbonara",
+      "deutsch": "Carbonara"
+    },
+    {
+      "index": 960,
+      "englisch": "chocolate sauce",
+      "deutsch": "Schokoladensauce"
+    },
+    {
+      "index": 961,
+      "englisch": "dough",
+      "deutsch": "Teig"
+    },
+    {
+      "index": 962,
+      "englisch": "meat loaf",
+      "deutsch": "Hackbraten"
+    },
+    {
+      "index": 963,
+      "englisch": "pizza",
+      "deutsch": "Pizza"
+    },
+    {
+      "index": 964,
+      "englisch": "potpie",
+      "deutsch": "Potpie"
+    },
+    {
+      "index": 965,
+      "englisch": "burrito",
+      "deutsch": "Burrito"
+    },
+    {
+      "index": 966,
+      "englisch": "red wine",
+      "deutsch": "Rotwein"
+    },
+    {
+      "index": 967,
+      "englisch": "espresso",
+      "deutsch": "Espresso"
+    },
+    {
+      "index": 968,
+      "englisch": "cup",
+      "deutsch": "Tasse"
+    },
+    {
+      "index": 969,
+      "englisch": "eggnog",
+      "deutsch": "Eierlikör"
+    },
+    {
+      "index": 970,
+      "englisch": "alp",
+      "deutsch": "Alp"
+    },
+    {
+      "index": 971,
+      "englisch": "bubble",
+      "deutsch": "Blase"
+    },
+    {
+      "index": 972,
+      "englisch": "cliff",
+      "deutsch": "Cliff"
+    },
+    {
+      "index": 973,
+      "englisch": "coral reef",
+      "deutsch": "Korallenriff"
+    },
+    {
+      "index": 974,
+      "englisch": "geyser",
+      "deutsch": "Geysir"
+    },
+    {
+      "index": 975,
+      "englisch": "lakeside",
+      "deutsch": "Seeufer"
+    },
+    {
+      "index": 976,
+      "englisch": "promontory",
+      "deutsch": "Vorgebirge"
+    },
+    {
+      "index": 977,
+      "englisch": "sandbar",
+      "deutsch": "Sandbank"
+    },
+    {
+      "index": 978,
+      "englisch": "seashore",
+      "deutsch": "Strand"
+    },
+    {
+      "index": 979,
+      "englisch": "valley",
+      "deutsch": "Schlucht"
+    },
+    {
+      "index": 980,
+      "englisch": "volcano",
+      "deutsch": "Vulkan"
+    },
+    {
+      "index": 981,
+      "englisch": "ballplayer",
+      "deutsch": "Ballspieler"
+    },
+    {
+      "index": 982,
+      "englisch": "groom",
+      "deutsch": "Bräutigam"
+    },
+    {
+      "index": 983,
+      "englisch": "scuba diver",
+      "deutsch": "Taucher"
+    },
+    {
+      "index": 984,
+      "englisch": "rapeseed",
+      "deutsch": "Raps"
+    },
+    {
+      "index": 985,
+      "englisch": "daisy",
+      "deutsch": "Gänseblümchen"
+    },
+    {
+      "index": 986,
+      "englisch": "yellow lady's slipper",
+      "deutsch": "gelber Damenschuh"
+    },
+    {
+      "index": 987,
+      "englisch": "corn",
+      "deutsch": "Mais"
+    },
+    {
+      "index": 988,
+      "englisch": "acorn",
+      "deutsch": "Eichel"
+    },
+    {
+      "index": 989,
+      "englisch": "hip",
+      "deutsch": "Hüfte"
+    },
+    {
+      "index": 990,
+      "englisch": "buckeye",
+      "deutsch": "Rosskastanie"
+    },
+    {
+      "index": 991,
+      "englisch": "coral fungus",
+      "deutsch": "Korallenpilz"
+    },
+    {
+      "index": 992,
+      "englisch": "agaric",
+      "deutsch": "Pilz"
+    },
+    {
+      "index": 993,
+      "englisch": "gyromitra",
+      "deutsch": "Gyromitra"
+    },
+    {
+      "index": 994,
+      "englisch": "stinkhorn",
+      "deutsch": "Stinkhorn"
+    },
+    {
+      "index": 995,
+      "englisch": "earthstar",
+      "deutsch": "Erdstern"
+    },
+    {
+      "index": 996,
+      "englisch": "hen-of-the-woods",
+      "deutsch": "Henne-des-Walds"
+    },
+    {
+      "index": 997,
+      "englisch": "bolete",
+      "deutsch": "Steinpilz"
+    },
+    {
+      "index": 998,
+      "englisch": "ear",
+      "deutsch": "Ohr"
+    },
+    {
+      "index": 999,
+      "englisch": "toilet tissue",
+      "deutsch": "Toilettenpapier"
+    }
+  ],
+  "fehlgeschlagen": [],
+  "statistik": {
+    "gesamt": 1000,
+    "erfolgreich": 1000,
+    "fehlgeschlagen": 0
+  }
+}
