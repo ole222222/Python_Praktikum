@@ -108,8 +108,8 @@ Die `range()` Funktion erzeugt eine Folge von Zahlen:
 **Schleife mit Liste:**
 
 ```python
-farben = ["rot", "grün", "blau"]
-for farbe in farben:
+farbe = ["rot", "grün", "blau"]
+for farbe in farbe:
     print("Meine Lieblingsfarbe könnte", farbe, "sein")
 ```
 
