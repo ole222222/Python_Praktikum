@@ -1,66 +1,68 @@
 # Einfaches Text-Adventure-Spiel
+import random
 
-def zeige_inventar() : 
-        Gold = 0  
-        choice = input("Inventar öffnen? Ja/Nein")
-        if choice == "Ja" :
-            print("Gold",Gold) 
-        elif choice == "Nein":
-            print()
+score = 0
+Gold = 0
 
-def start_game():     
-    import random
-    score = 0
-    Gold = 0
+
+# def zeige_inventar() : 
+#     Gold = 0  
+#     choice = input("Inventar öffnen? Ja/Nein")
+#     if choice == "Ja" :
+#         print("Gold :",Gold) 
+#     elif choice == "Nein":
+#         print()
+
+
+def tür_wahl() :
+    global Gold
+    wahl = input("Welche Tür wählst du? (links/rechts): ").strip().lower()
+    if wahl == "links" or wahl == "rechts" :
+        rand = random.randrange(0,300) % 2
+        if rand == 1 :
+            print("Du hast einen Schatz gefunden !")
+            print("Gold + 10")
+            Gold += 10
+            tür_wahl()
+        else :
+            print("Du findest ein Monster!")
+            monster()
+            tür_wahl()
+    else :
+        print("done")
+        return
+
+def monster():
+    global score
+    global Gold
+    choice = input("Möchtest du gegen das Monster Kämpfen oder Fliehen? : ").strip().lower()
+    if choice == "kämpfen":
+        rand =random.randrange(0,300) % 2
+        if rand== 1 :
+            print("Du hast den Kampf gewonnen!")
+            score += 10 
+            print("Score + 10")   
+            if score == 50 :
+                print("Du hast gewonnen!  Dein Score:", score)
+                print("Dein Gold :", Gold)
+                score -= score
+                Gold -= Gold
+                start_game()
+        else :
+            print("Du hast verloren")
+            Gold -= 10
+            print("Gold -10")
+    elif choice == "fliehen" :
+        print("Du bist geflohen!")
+    else : 
+        monster()
+
+
+def start_game():
     name = input("Wie heißt du? ")
     print(f"Willkommen {name} zu deinem Abenteuer!")
-    print("Du stehst vor zwei Türen: links und rechts.")
-    choice = input("Welche Tür wählst du? (links/rechts): ").strip().lower()
-    if choice == "links":
-        print("Du findest einen Schatz!")
-    elif choice == "rechst":
-        if random.randint(1, 5) == 1:
-            print("Du hast Glück!")
-        else:
-            print("Du hast Pech, ein Monster erscheint!") 
-            choice = input("Kämpfen oder Weglaufen?")
-            if choice == "Kämpfen":
-                if random.randint(1, 3) == 1:
-                    print("du hast gewonnen!")
-                    score += 10
-                    Gold += 10
-                    print(f"Deine Punkte: {score}")
-                else :
-                    print("Du hast verloren!")
-                    score -=10 
-                    print("-10 Punkte:", score)                                         
-    else:
-        print("Du hast dich verirrt...")
-    print("Du hast zwei weitere Türen gefunden, eine links und eine rechts") 
-    choice = input("Welche Tür wählst du? (links/rechts): ").strip().lower() 
-    if choice == "links":
-        print("Du siehst ein Monster!") 
-        choice = input("Kämpfen oder Weglaufen?")
-        if choice == "Kämpfen":
-            if random.randint(1, 3) == 1:
-                print("du hast gewonnen!")
-                score += 10
-                Gold += 10
-                print(f"Deine Punkte: {score}")
-            else :
-                print("Du hast verloren!")
-                score -=10
-                print("-10 Punkte:", score)   
-        elif choice == "Weglaufen" :
-            if random.randint(1, 2) == 1:
-                print("Du bist weggekommen!")
-            else :
-                print("Du bist nicht weggekommen, du hast verloren!")    
-    if choice == "rechts":
-        print("Du hast einen Schatz gefunden!")
-        score +=10
-        Gold += 10
-        print("+10 Punkte")             
+    tür_wahl()
+   
 
 if __name__ == "__main__":
     start_game()
