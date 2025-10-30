@@ -11,7 +11,7 @@ import json
 def load_german_classes():
     with open('imagenet_german/imagenet_deutsch_vollstaendig.json', 'r', encoding='utf-8') as f:
         data = json.load(f)
-    
+
     # Dictionary erstellen: Index -> deutscher Name
     translations = {}
     for item in data['uebersetzungen']:
