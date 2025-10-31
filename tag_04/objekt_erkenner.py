@@ -3,6 +3,7 @@ model = YOLO('yolo11n.pt')
 bild = input()
 results = model(bild)
 
+
 for result in results:
     boxes = result.boxes       
     names = result.names        
