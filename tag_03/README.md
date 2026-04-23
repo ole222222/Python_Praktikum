@@ -1,5 +1,5 @@
 # Tag 3: Deep Learning mit PyTorch - Bilderkennung
-
+Prak4csg25.
 Willkommen zu Tag 3 deines Python-Praktikums! Heute tauchen wir in die spannende Welt des Deep Learning ein. Du wirst lernen, wie Computer "sehen" können und eigene KI-Anwendungen für Bilderkennung entwickeln. Das klingt kompliziert, aber du wirst staunen, wie einfach es mit den richtigen Tools sein kann!
 
 ## Was an diesem Tag gemacht wird
